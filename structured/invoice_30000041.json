@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000041.pdf",
+    "invoice_number": "30000041",
+    "invoice_date": "01/11/2025",
+    "due_date": "16/11/2025",
+    "po_number": "PO-471517",
+    "payment_terms": "Net 15 (ACH)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Ratke, Vandervort and Vandervort\n44440 Aaron Prairie Apt. 447\nParkerboro, NV 16036\nTax Id: 972-75-8923",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "High-Density Foam Center Top Table Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "5,00",
+            "unit": "each",
+            "net_price": "414,30 2",
+            "net_worth": "071,50",
+            "vat": "10%",
+            "gross_worth": "2 278,65"
+        },
+        {
+            "item_no": 2,
+            "description": "Premium Leather Decorative Vase Vintage Mid-Century Modern Design",
+            "quantity": "9,00",
+            "unit": "each",
+            "net_price": "8 878,01",
+            "net_worth": "79 902,09",
+            "vat": "10%",
+            "gross_worth": "87 892,30"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n10% 81 973,59 8 197,36 90 170,95\nTotal Rs 81 973,59 Rs 8 197,36 Rs 90 170,95"
+}

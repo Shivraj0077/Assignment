@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000089.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000089\nDate of issue:30/09/2021\nDue date: 29/11/2021\nPO number: PO-816204\nPayment terms:Net 60 (Credit Card)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nBailey, Murray and Leffler\n1417 Garrison Estate Suite 932\nNew Nannieland, IL 21336\nTax Id: 527-10-7190\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Ergonomic Mesh Lounge Chair Vintage\nMid-Century Modern Design\n1,00 days 908,13 908,13 20% 1 089,76\n2. Handcrafted Ceramic Accent Mirror\nVintage Mid-Century Modern Design\n3,00 kg 50,42 151,26 20% 181,51\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n20% 1 059,39 211,88 1 271,27\nTotal Rs 1 059,39 Rs 211,88 Rs 1 271,27\nNotes:\nPlease include the invoice number on your check or wire transfer reference."
+        }
+    ]
+}

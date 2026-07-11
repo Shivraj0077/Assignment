@@ -1,0 +1,63 @@
+{
+    "filename": "invoice_30000027.pdf",
+    "invoice_number": "30000027",
+    "invoice_date": "08/01/2023",
+    "due_date": "07/02/2023",
+    "po_number": "PO-229109",
+    "payment_terms": "Net 30 (Bank Transfer)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Swift-Kshlerin, Yost and Sipes\n25669 W 1st Street Suite 830\nIowa City, AR 86670-2190\nTax Id: 742-19-7815",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Handcrafted Ceramic Pendant Light Fixture Acoustic Sound-Dampening Modular Panels",
+            "quantity": "8,00",
+            "unit": "box",
+            "net_price": "53,37 426,96",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "469,66"
+        },
+        {
+            "item_no": 2,
+            "description": "Rustic Reclaimed Wood Decorative Vase Acoustic Sound-Dampening Modular Panels",
+            "quantity": "1,00",
+            "unit": "box",
+            "net_price": "62,04 62,04",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "68,24"
+        },
+        {
+            "item_no": 3,
+            "description": "Rustic Reclaimed Wood Accent Mirror Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "1,00",
+            "unit": "hrs",
+            "net_price": "24,53 24,53",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "26,98"
+        },
+        {
+            "item_no": 4,
+            "description": "Solid Oak Wood Office Desk Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "6,00",
+            "unit": "hrs",
+            "net_price": "279,32 1",
+            "net_worth": "675,92",
+            "vat": "10%",
+            "gross_worth": "1 843,51"
+        },
+        {
+            "item_no": 5,
+            "description": "High-Density Foam Dining Table Limited Edition Art Deco Collection",
+            "quantity": "3,00",
+            "unit": "kg",
+            "net_price": "676,05 2",
+            "net_worth": "028,15",
+            "vat": "10%",
+            "gross_worth": "2 230,97"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n10% 4 217,60 421,76 4 639,36\nTotal Rs 4 217,60 Rs 421,76 Rs 4 639,36"
+}

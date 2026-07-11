@@ -1,0 +1,113 @@
+{
+    "filename": "invoice_30000029.pdf",
+    "invoice_number": "30000029",
+    "invoice_date": "17/04/2021",
+    "due_date": "17/05/2021",
+    "po_number": "PO-142120",
+    "payment_terms": "Net 30 (Check)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Ortiz and Sons\n49106 Briana Trafficway Suite 254\nBaton Rouge, IN 24036-5692\nTax Id: 626-28-8275",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "6'x3' Black Marble Armchair Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "2,00",
+            "unit": "box",
+            "net_price": "267,96 535,92",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "643,10"
+        },
+        {
+            "item_no": 2,
+            "description": "Ergonomic Mesh Center Top Table Vintage Mid-Century Modern Design",
+            "quantity": "1,00",
+            "unit": "kg",
+            "net_price": "940,20 940,20",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "1 128,24"
+        },
+        {
+            "item_no": 3,
+            "description": "Ergonomic Mesh Lounge Chair Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "11,00",
+            "unit": "days",
+            "net_price": "29,70 326,70",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "392,04"
+        },
+        {
+            "item_no": 4,
+            "description": "Brushed Steel Credenza Buffet Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "5,00",
+            "unit": "pcs",
+            "net_price": "88,93 444,65",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "533,58"
+        },
+        {
+            "item_no": 5,
+            "description": "Rustic Reclaimed Wood Office Desk Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "7,00",
+            "unit": "box",
+            "net_price": "563,99 3",
+            "net_worth": "947,93",
+            "vat": "20%",
+            "gross_worth": "4 737,52"
+        },
+        {
+            "item_no": 6,
+            "description": "Brushed Steel Accent Mirror Minimalist Nordic Style for Home Office",
+            "quantity": "6,00",
+            "unit": "pcs",
+            "net_price": "77,19 463,14",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "555,77"
+        },
+        {
+            "item_no": 7,
+            "description": "Handcrafted Ceramic Office Desk Limited Edition Art Deco Collection",
+            "quantity": "2,00",
+            "unit": "kg",
+            "net_price": "26,10 52,20",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "62,64"
+        },
+        {
+            "item_no": 8,
+            "description": "Premium Leather Bookshelf Unit Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "9,00",
+            "unit": "box",
+            "net_price": "3 794,72",
+            "net_worth": "34 152,48",
+            "vat": "20%",
+            "gross_worth": "40 982,98"
+        },
+        {
+            "item_no": 9,
+            "description": "6'x3' Black Marble Credenza Buffet Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "8,00",
+            "unit": "pcs",
+            "net_price": "85,93 687,44",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "824,93"
+        },
+        {
+            "item_no": 10,
+            "description": "Ergonomic Mesh Pendant Light Fixture Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "4,00",
+            "unit": "days",
+            "net_price": "58,74 234,96",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "281,95"
+        }
+    ],
+    "summary": ""
+}

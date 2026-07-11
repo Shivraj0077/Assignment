@@ -1,0 +1,93 @@
+{
+    "filename": "invoice_30000085.pdf",
+    "invoice_number": "30000085",
+    "invoice_date": "24/11/2023",
+    "due_date": "23/01/2024",
+    "po_number": "PO-413230",
+    "payment_terms": "Net 60 (Check)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Yundt, Stroman and Fisher\n55385 Osinski Gateway Apt. 862\nLake Nicklausview, VA 80591-0697\nTax Id: 633-52-6716",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Ergonomic Mesh Office Desk Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "11,00",
+            "unit": "box",
+            "net_price": "71,17 782,87",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "861,16"
+        },
+        {
+            "item_no": 2,
+            "description": "Polished Brass Pendant Light Fixture Minimalist Nordic Style for Home Office",
+            "quantity": "9,00",
+            "unit": "hrs",
+            "net_price": "878,05 7",
+            "net_worth": "902,45",
+            "vat": "10%",
+            "gross_worth": "8 692,70"
+        },
+        {
+            "item_no": 3,
+            "description": "Handcrafted Ceramic Sideboard Cabinet Minimalist Nordic Style for Home Office",
+            "quantity": "6,00",
+            "unit": "days",
+            "net_price": "630,84 3",
+            "net_worth": "785,04",
+            "vat": "10%",
+            "gross_worth": "4 163,54"
+        },
+        {
+            "item_no": 4,
+            "description": "Polished Brass Conference Table Acoustic Sound-Dampening Modular Panels",
+            "quantity": "7,00",
+            "unit": "hrs",
+            "net_price": "15,81 110,67",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "121,74"
+        },
+        {
+            "item_no": 5,
+            "description": "Brushed Steel Center Top Table Minimalist Nordic Style for Home Office",
+            "quantity": "3,00",
+            "unit": "days",
+            "net_price": "93,10 279,30",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "307,23"
+        },
+        {
+            "item_no": 6,
+            "description": "Handcrafted Ceramic Office Desk Acoustic Sound-Dampening Modular Panels",
+            "quantity": "11,00",
+            "unit": "hrs",
+            "net_price": "218,82 2",
+            "net_worth": "407,02",
+            "vat": "10%",
+            "gross_worth": "2 647,72"
+        },
+        {
+            "item_no": 7,
+            "description": "Ergonomic Mesh Conference Table Vintage Mid-Century Modern Design",
+            "quantity": "1,00",
+            "unit": "box",
+            "net_price": "56,38 56,38",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "62,02"
+        },
+        {
+            "item_no": 8,
+            "description": "Tempered Glass Dining Table Limited Edition Art Deco Collection",
+            "quantity": "8,00",
+            "unit": "days",
+            "net_price": "927,76 7",
+            "net_worth": "422,08",
+            "vat": "10%",
+            "gross_worth": "8 164,29"
+        }
+    ],
+    "summary": ""
+}

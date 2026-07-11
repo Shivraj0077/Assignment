@@ -1,0 +1,93 @@
+{
+    "filename": "invoice_30000093.pdf",
+    "invoice_number": "30000093",
+    "invoice_date": "24/12/2023",
+    "due_date": "07/02/2024",
+    "po_number": "PO-208813",
+    "payment_terms": "Net 45 (ACH)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Kuhic - Leuschke\n631 N Church Street Apt. 528\nWest Andreannefurt, NJ 74868-6966\nTax Id: 258-66-4993",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Ergonomic Mesh Credenza Buffet Limited Edition Art Deco Collection",
+            "quantity": "12,00",
+            "unit": "kg",
+            "net_price": "681,15 8",
+            "net_worth": "173,80",
+            "vat": "10%",
+            "gross_worth": "8 991,18"
+        },
+        {
+            "item_no": 2,
+            "description": "Rustic Reclaimed Wood Bookshelf Unit Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "2,00",
+            "unit": "each",
+            "net_price": "994,27 1",
+            "net_worth": "988,54",
+            "vat": "10%",
+            "gross_worth": "2 187,39"
+        },
+        {
+            "item_no": 3,
+            "description": "Premium Leather Lounge Chair Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "8,00",
+            "unit": "hrs",
+            "net_price": "938,26 7",
+            "net_worth": "506,08",
+            "vat": "10%",
+            "gross_worth": "8 256,69"
+        },
+        {
+            "item_no": 4,
+            "description": "Premium Leather Conference Table Vintage Mid-Century Modern Design",
+            "quantity": "6,00",
+            "unit": "box",
+            "net_price": "973,99 5",
+            "net_worth": "843,94",
+            "vat": "10%",
+            "gross_worth": "6 428,33"
+        },
+        {
+            "item_no": 5,
+            "description": "Polished Brass Conference Table Limited Edition Art Deco Collection",
+            "quantity": "10,00",
+            "unit": "each",
+            "net_price": "923,17 9",
+            "net_worth": "231,70",
+            "vat": "10%",
+            "gross_worth": "10 154,87"
+        },
+        {
+            "item_no": 6,
+            "description": "Brushed Steel Bookshelf Unit Vintage Mid-Century Modern Design",
+            "quantity": "5,00",
+            "unit": "kg",
+            "net_price": "673,72 3",
+            "net_worth": "368,60",
+            "vat": "10%",
+            "gross_worth": "3 705,46"
+        },
+        {
+            "item_no": 7,
+            "description": "Premium Leather Decorative Vase Minimalist Nordic Style for Home Office",
+            "quantity": "1,00",
+            "unit": "pcs",
+            "net_price": "815,48 815,48",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "897,03"
+        },
+        {
+            "item_no": 8,
+            "description": "Custom Engraved Gold Pendant Light Fixture Limited Edition Art Deco Collection",
+            "quantity": "11,00",
+            "unit": "pcs",
+            "net_price": "1 639,73",
+            "net_worth": "18 037,03",
+            "vat": "10%",
+            "gross_worth": "19 840,73"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n10% 54 965,17 5 496,51 60 461,68\nTotal Rs 54 965,17 Rs 5 496,51 Rs 60 461,68"
+}

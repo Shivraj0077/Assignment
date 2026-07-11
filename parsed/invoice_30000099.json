@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000099.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000099\nDate of issue:14/10/2024\nDue date: 13/11/2024\nPO number: PO-407199\nPayment terms:Net 30 (Check)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nAltenwerth Inc\n74352 Rohan Tunnel Suite 120\nGrantshire, VA 84117-6437\nTax Id: 960-99-5694\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Ergonomic Mesh Decorative Vase\nAcoustic Sound-Dampening Modular\nPanels\n2,00 each 4 551,51 9 103,02 5% 9 558,17\n2. Solid Oak Wood Dining Table Heavy\nDuty Industrial Framework with Leveling\nFeet\n6,00 pcs 20,25 121,50 5% 127,58\n3. Ergonomic Mesh Lounge Chair Heavy\nDuty Industrial Framework with Leveling\nFeet\n8,00 days 54,50 436,00 5% 457,80\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n5% 9 660,52 483,03 10 143,55\nTotal Rs 9 660,52 Rs 483,03 Rs 10 143,55\nNotes:\nStandard delivery included. Tax calculated based on shipping destination."
+        }
+    ]
+}

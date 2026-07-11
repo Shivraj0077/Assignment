@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000081.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000081\nDate of issue:10/09/2020\nDue date: 09/11/2020\nPO number: PO-277681\nPayment terms:Net 60 (Credit Card)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nFranecki, Lindgren and Christiansen\n765 Broadway Avenue Suite 705\nSanta Clarita, MT 61914-9391\nTax Id: 655-67-8130\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. High-Density Foam Conference Table\nMinimalist Nordic Style for Home Office\n4,00 kg 98,48 393,92 10% 433,31\n2. Brushed Steel Conference Table Mosaic\nGemstone Patio Art Black Friday Gift\n4,00 days 4 206,30 16 825,20 10% 18 507,72\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n10% 17 219,12 1 721,91 18 941,03\nTotal Rs 17 219,12 Rs 1 721,91 Rs 18 941,03\nNotes:\nGoods sold are not returnable. Service warranty applies as per standard terms."
+        }
+    ]
+}

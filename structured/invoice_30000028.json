@@ -1,0 +1,93 @@
+{
+    "filename": "invoice_30000028.pdf",
+    "invoice_number": "30000028",
+    "invoice_date": "27/02/2021",
+    "due_date": "14/03/2021",
+    "po_number": "PO-629538",
+    "payment_terms": "Net 15 (Bank Transfer)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Windler and Sons\n505 Melanie Flats Apt. 567\nEast Pamburgh, MO 60979-5992\nTax Id: 379-85-3716",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Solid Oak Wood Decorative Vase Vintage Mid-Century Modern Design",
+            "quantity": "9,00",
+            "unit": "days",
+            "net_price": "45,43 408,87",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "502,91"
+        },
+        {
+            "item_no": 2,
+            "description": "Tempered Glass Office Desk Limited Edition Art Deco Collection",
+            "quantity": "1,00",
+            "unit": "kg",
+            "net_price": "71,34 71,34",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "87,75"
+        },
+        {
+            "item_no": 3,
+            "description": "Custom Engraved Gold Armchair Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "7,00",
+            "unit": "pcs",
+            "net_price": "3 372,06",
+            "net_worth": "23 604,42",
+            "vat": "23%",
+            "gross_worth": "29 033,44"
+        },
+        {
+            "item_no": 4,
+            "description": "Brushed Steel Bookshelf Unit Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "8,00",
+            "unit": "kg",
+            "net_price": "7 322,80",
+            "net_worth": "58 582,40",
+            "vat": "23%",
+            "gross_worth": "72 056,35"
+        },
+        {
+            "item_no": 5,
+            "description": "High-Density Foam Conference Table Vintage Mid-Century Modern Design",
+            "quantity": "4,00",
+            "unit": "each",
+            "net_price": "36,19 144,76",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "178,05"
+        },
+        {
+            "item_no": 6,
+            "description": "4'x2' Marble Black Decorative Vase Vintage Mid-Century Modern Design",
+            "quantity": "9,00",
+            "unit": "pcs",
+            "net_price": "442,59 3",
+            "net_worth": "983,31",
+            "vat": "23%",
+            "gross_worth": "4 899,47"
+        },
+        {
+            "item_no": 7,
+            "description": "Polished Brass Bookshelf Unit Minimalist Nordic Style for Home Office",
+            "quantity": "2,00",
+            "unit": "kg",
+            "net_price": "789,49 1",
+            "net_worth": "578,98",
+            "vat": "23%",
+            "gross_worth": "1 942,15"
+        },
+        {
+            "item_no": 8,
+            "description": "Brushed Steel Decorative Vase Limited Edition Art Deco Collection",
+            "quantity": "10,00",
+            "unit": "hrs",
+            "net_price": "832,24 8",
+            "net_worth": "322,40",
+            "vat": "23%",
+            "gross_worth": "10 236,55"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n23% 96 696,48 22 240,19 118 936,67\nTotal Rs 96 696,48 Rs 22 240,19 Rs 118 936,67"
+}

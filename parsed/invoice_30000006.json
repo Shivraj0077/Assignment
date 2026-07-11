@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000006.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000006\nDate of issue:31/01/2024\nDue date: 31/03/2024\nPO number: PO-295161\nPayment terms:Net 60 (Bank Transfer)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nKovacek, Moen and O'Conner\n72901 W Broadway Street Apt. 308\nRancho Cordova, NV 26124-9438\nTax Id: 588-53-7462\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Brushed Steel Armchair Mosaic\nGemstone Patio Art Black Friday Gift\n9,00 each 83,53 751,77 20% 902,12\n2. Custom Engraved Gold Conference\nTable Heavy Duty Industrial Framework\nwith Leveling Feet\n4,00 kg 865,18 3 460,72 20% 4 152,86\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n20% 4 212,49 842,49 5 054,98\nTotal Rs 4 212,49 Rs 842,49 Rs 5 054,98\nNotes:\nAll amounts are in the specified currency. For queries, contact billing@jacobsrussell.com"
+        }
+    ]
+}

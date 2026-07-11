@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000023.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000023\nDate of issue:11/03/2023\nDue date: 10/04/2023\nPO number: PO-795268\nPayment terms:Net 30 (Bank Transfer)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nMertz, Padberg and McCullough\n471 Kassulke Trail Apt. 332\nFort Lily, CA 17688-0072\nTax Id: 216-79-2173\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Handcrafted Ceramic Dining Table\nMosaic Gemstone Patio Art Black Friday\nGift\n11,00 hrs 19,95 219,45 10% 241,40\n2. Handcrafted Ceramic Pendant Light\nFixture Weatherproof Powder Coat\nFinish for Outdoor Use\n11,00 kg 85,29 938,19 10% 1 032,01\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n10% 1 157,64 115,77 1 273,41\nTotal Rs 1 157,64 Rs 115,77 Rs 1 273,41\nNotes:\nThank you for your business. Please remit payment at your earliest convenience."
+        }
+    ]
+}

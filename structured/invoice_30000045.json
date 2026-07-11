@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000045.pdf",
+    "invoice_number": "30000045",
+    "invoice_date": "19/04/2025",
+    "due_date": "03/06/2025",
+    "po_number": "PO-109714",
+    "payment_terms": "Net 45 (ACH)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Schultz, Swift and Reichert\n506 Jackson Street Suite 674\nMathildecester, NV 79507\nTax Id: 445-18-2476",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Premium Leather Armchair Minimalist Nordic Style for Home Office",
+            "quantity": "1,00",
+            "unit": "pcs",
+            "net_price": "83,52 83,52",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "102,73"
+        },
+        {
+            "item_no": 2,
+            "description": "Handcrafted Ceramic Dining Table Minimalist Nordic Style for Home Office",
+            "quantity": "8,00",
+            "unit": "box",
+            "net_price": "7 175,53",
+            "net_worth": "57 404,24",
+            "vat": "23%",
+            "gross_worth": "70 607,22"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n23% 57 487,76 13 222,19 70 709,95\nTotal Rs 57 487,76 Rs 13 222,19 Rs 70 709,95"
+}

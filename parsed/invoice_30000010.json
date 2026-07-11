@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000010.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000010\nDate of issue:16/06/2020\nDue date: 15/08/2020\nPO number: PO-515874\nPayment terms:Net 60 (Bank Transfer)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nWolf Group\n83600 First Street Apt. 485\nHerminioton, IA 94021-5934\nTax Id: 865-59-4420\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. 6'x3' Black Marble Armchair Minimalist\nNordic Style for Home Office\n12,00 days 8 037,98 96 455,76 20% 115 746,91\n2. Tempered Glass Bookshelf Unit\nWeatherproof Powder Coat Finish for\nOutdoor Use\n11,00 box 588,80 6 476,80 20% 7 772,16\n3. Brushed Steel Armchair Pietradura\nInlay Scagliola Stone Decorate H3096\n8,00 box 60,00 480,00 20% 576,00\n4. Solid Oak Wood Dining Table\nPietradura Inlay Scagliola Stone\nDecorate H3096\n12,00 kg 28,44 341,28 20% 409,54\n5. 4'x2' Marble Black Sideboard Cabinet\nVintage Mid-Century Modern Design\n6,00 hrs 3 117,52 18 705,12 20% 22 446,14\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n20% 122 458,96 24 491,79 146 950,75\nTotal Rs 122 458,96 Rs 24 491,79 Rs 146 950,75\nNotes:\nThank you for your business. Please remit payment at your earliest convenience."
+        }
+    ]
+}

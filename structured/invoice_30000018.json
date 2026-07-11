@@ -1,0 +1,43 @@
+{
+    "filename": "invoice_30000018.pdf",
+    "invoice_number": "30000018",
+    "invoice_date": "21/04/2020",
+    "due_date": "05/06/2020",
+    "po_number": "PO-633965",
+    "payment_terms": "Net 45 (ACH)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Harris Inc\n457 Ed Ports Suite 740\nHarrishaven, CA 41135\nTax Id: 531-46-7101",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "High-Density Foam Decorative Vase Minimalist Nordic Style for Home Office",
+            "quantity": "3,00",
+            "unit": "each",
+            "net_price": "190,89 572,67",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "704,38"
+        },
+        {
+            "item_no": 2,
+            "description": "Tempered Glass Decorative Vase Vintage Mid-Century Modern Design",
+            "quantity": "4,00",
+            "unit": "box",
+            "net_price": "421,02 1",
+            "net_worth": "684,08",
+            "vat": "23%",
+            "gross_worth": "2 071,42"
+        },
+        {
+            "item_no": 3,
+            "description": "Solid Oak Wood Decorative Vase Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "6,00",
+            "unit": "days",
+            "net_price": "166,62 999,72",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "1 229,66"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n23% 3 256,47 748,99 4 005,46\nTotal Rs 3 256,47 Rs 748,99 Rs 4 005,46"
+}

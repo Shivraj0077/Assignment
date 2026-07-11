@@ -1,0 +1,63 @@
+{
+    "filename": "invoice_30000015.pdf",
+    "invoice_number": "30000015",
+    "invoice_date": "19/06/2022",
+    "due_date": "04/07/2022",
+    "po_number": "PO-656283",
+    "payment_terms": "Net 15 (Check)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Simonis, Howell-Wilkinson and Skiles\n84091 Castle Close Apt. 698\nNorth Lamont, MD 72527-6334\nTax Id: 426-78-2631",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Solid Oak Wood Credenza Buffet Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "2,00",
+            "unit": "each",
+            "net_price": "401,27 802,54",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "963,05"
+        },
+        {
+            "item_no": 2,
+            "description": "Brushed Steel Accent Mirror Acoustic Sound-Dampening Modular Panels",
+            "quantity": "8,00",
+            "unit": "days",
+            "net_price": "576,50 4",
+            "net_worth": "612,00",
+            "vat": "20%",
+            "gross_worth": "5 534,40"
+        },
+        {
+            "item_no": 3,
+            "description": "Polished Brass Pendant Light Fixture Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "6,00",
+            "unit": "hrs",
+            "net_price": "1 916,33",
+            "net_worth": "11 497,98",
+            "vat": "20%",
+            "gross_worth": "13 797,58"
+        },
+        {
+            "item_no": 4,
+            "description": "6'x3' Black Marble Armchair Minimalist Nordic Style for Home Office",
+            "quantity": "12,00",
+            "unit": "each",
+            "net_price": "1 076,91",
+            "net_worth": "12 922,92",
+            "vat": "20%",
+            "gross_worth": "15 507,50"
+        },
+        {
+            "item_no": 5,
+            "description": "Custom Engraved Gold Armchair Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "1,00",
+            "unit": "pcs",
+            "net_price": "156,53 156,53",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "187,84"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n20% 29 991,97 5 998,40 35 990,37\nTotal Rs 29 991,97 Rs 5 998,40 Rs 35 990,37"
+}

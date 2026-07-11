@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000008.pdf",
+    "invoice_number": "30000008",
+    "invoice_date": "15/02/2024",
+    "due_date": "15/04/2024",
+    "po_number": "PO-679540",
+    "payment_terms": "Net 60 (Credit Card)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Block Group\n8451 Merle Rapids Suite 964\nNew Herta, WY 92927-8582\nTax Id: 811-41-2900",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Premium Leather Credenza Buffet Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "12,00",
+            "unit": "kg",
+            "net_price": "20,33 243,96",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "268,36"
+        },
+        {
+            "item_no": 2,
+            "description": "Premium Leather Decorative Vase Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "4,00",
+            "unit": "each",
+            "net_price": "806,95 3",
+            "net_worth": "227,80",
+            "vat": "10%",
+            "gross_worth": "3 550,58"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n10% 3 471,76 347,18 3 818,94\nTotal Rs 3 471,76 Rs 347,18 Rs 3 818,94"
+}

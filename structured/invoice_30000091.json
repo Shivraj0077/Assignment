@@ -1,0 +1,43 @@
+{
+    "filename": "invoice_30000091.pdf",
+    "invoice_number": "30000091",
+    "invoice_date": "23/01/2022",
+    "due_date": "24/03/2022",
+    "po_number": "PO-626331",
+    "payment_terms": "Net 60 (Credit Card)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Walter - Leuschke\n8107 W 7th Street Suite 648\nPort Mandy, NM 01109\nTax Id: 553-54-6051",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "4'x2' Marble Black Dining Table Minimalist Nordic Style for Home Office",
+            "quantity": "9,00",
+            "unit": "kg",
+            "net_price": "255,43 2",
+            "net_worth": "298,87",
+            "vat": "5%",
+            "gross_worth": "2 413,81"
+        },
+        {
+            "item_no": 2,
+            "description": "Premium Leather Office Desk Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "5,00",
+            "unit": "days",
+            "net_price": "7 695,36",
+            "net_worth": "38 476,80",
+            "vat": "5%",
+            "gross_worth": "40 400,64"
+        },
+        {
+            "item_no": 3,
+            "description": "Brushed Steel Dining Table Vintage Mid- Century Modern Design",
+            "quantity": "8,00",
+            "unit": "hrs",
+            "net_price": "95,43 763,44",
+            "net_worth": "",
+            "vat": "5%",
+            "gross_worth": "801,61"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n5% 41 539,11 2 076,95 43 616,06\nTotal Rs 41 539,11 Rs 2 076,95 Rs 43 616,06"
+}

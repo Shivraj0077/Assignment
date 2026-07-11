@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000008.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000008\nDate of issue:15/02/2024\nDue date: 15/04/2024\nPO number: PO-679540\nPayment terms:Net 60 (Credit Card)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nBlock Group\n8451 Merle Rapids Suite 964\nNew Herta, WY 92927-8582\nTax Id: 811-41-2900\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Premium Leather Credenza Buffet\nPietradura Inlay Scagliola Stone\nDecorate H3096\n12,00 kg 20,33 243,96 10% 268,36\n2. Premium Leather Decorative Vase\nWeatherproof Powder Coat Finish for\nOutdoor Use\n4,00 each 806,95 3 227,80 10% 3 550,58\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n10% 3 471,76 347,18 3 818,94\nTotal Rs 3 471,76 Rs 347,18 Rs 3 818,94\nNotes:\nThank you for your business. Please remit payment at your earliest convenience."
+        }
+    ]
+}

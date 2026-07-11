@@ -1,0 +1,63 @@
+{
+    "filename": "invoice_30000016.pdf",
+    "invoice_number": "30000016",
+    "invoice_date": "02/03/2025",
+    "due_date": "01/05/2025",
+    "po_number": "PO-987563",
+    "payment_terms": "Net 60 (Credit Card)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Kerluke, Durgan and Williamson\n5765 Lurline Lane Suite 752\nEast Ross, KY 04382-6899\nTax Id: 788-58-4513",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Premium Leather Center Top Table Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "5,00",
+            "unit": "hrs",
+            "net_price": "314,35 1",
+            "net_worth": "571,75",
+            "vat": "10%",
+            "gross_worth": "1 728,93"
+        },
+        {
+            "item_no": 2,
+            "description": "Tempered Glass Decorative Vase Limited Edition Art Deco Collection",
+            "quantity": "12,00",
+            "unit": "days",
+            "net_price": "504,68 6",
+            "net_worth": "056,16",
+            "vat": "10%",
+            "gross_worth": "6 661,78"
+        },
+        {
+            "item_no": 3,
+            "description": "Ergonomic Mesh Credenza Buffet Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "10,00",
+            "unit": "each",
+            "net_price": "65,38 653,80",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "719,18"
+        },
+        {
+            "item_no": 4,
+            "description": "Polished Brass Pendant Light Fixture Minimalist Nordic Style for Home Office",
+            "quantity": "10,00",
+            "unit": "kg",
+            "net_price": "800,48 8",
+            "net_worth": "004,80",
+            "vat": "10%",
+            "gross_worth": "8 805,28"
+        },
+        {
+            "item_no": 5,
+            "description": "Custom Engraved Gold Conference Table Vintage Mid-Century Modern Design",
+            "quantity": "4,00",
+            "unit": "pcs",
+            "net_price": "1 283,41",
+            "net_worth": "5 133,64",
+            "vat": "10%",
+            "gross_worth": "5 647,00"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n10% 21 420,15 2 142,02 23 562,17\nTotal Rs 21 420,15 Rs 2 142,02 Rs 23 562,17"
+}

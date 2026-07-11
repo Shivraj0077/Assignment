@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000091.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000091\nDate of issue:23/01/2022\nDue date: 24/03/2022\nPO number: PO-626331\nPayment terms:Net 60 (Credit Card)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nWalter - Leuschke\n8107 W 7th Street Suite 648\nPort Mandy, NM 01109\nTax Id: 553-54-6051\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. 4'x2' Marble Black Dining Table\nMinimalist Nordic Style for Home Office\n9,00 kg 255,43 2 298,87 5% 2 413,81\n2. Premium Leather Office Desk Mosaic\nGemstone Patio Art Black Friday Gift\n5,00 days 7 695,36 38 476,80 5% 40 400,64\n3. Brushed Steel Dining Table Vintage Mid-\nCentury Modern Design\n8,00 hrs 95,43 763,44 5% 801,61\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n5% 41 539,11 2 076,95 43 616,06\nTotal Rs 41 539,11 Rs 2 076,95 Rs 43 616,06\nNotes:\nStandard delivery included. Tax calculated based on shipping destination."
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "filename": "invoice_30000075.pdf",
+    "invoice_number": "30000075",
+    "invoice_date": "21/07/2020",
+    "due_date": "05/08/2020",
+    "po_number": "PO-612139",
+    "payment_terms": "Net 15 (ACH)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Becker - Boyer\n98674 Kihn Heights Suite 637\nMacchester, NH 10428\nTax Id: 190-20-3752",
+    "items": [],
+    "summary": ""
+}

@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000021.pdf",
+    "invoice_number": "30000021",
+    "invoice_date": "19/01/2025",
+    "due_date": "05/03/2025",
+    "po_number": "PO-201074",
+    "payment_terms": "Net 45 (ACH)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Schneider Inc\n64690 Hipolito Parkway Suite 207\nShelleyshire, GA 36746-9913\nTax Id: 364-36-9849",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Ergonomic Mesh Center Top Table Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "10,00",
+            "unit": "pcs",
+            "net_price": "221,95 2",
+            "net_worth": "219,50",
+            "vat": "5%",
+            "gross_worth": "2 330,48"
+        },
+        {
+            "item_no": 2,
+            "description": "6'x3' Black Marble Lounge Chair Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "7,00",
+            "unit": "each",
+            "net_price": "16,85 117,95",
+            "net_worth": "",
+            "vat": "5%",
+            "gross_worth": "123,85"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n5% 2 337,45 116,88 2 454,33\nTotal Rs 2 337,45 Rs 116,88 Rs 2 454,33"
+}

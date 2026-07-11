@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000058.pdf",
+    "invoice_number": "30000058",
+    "invoice_date": "12/07/2024",
+    "due_date": "11/08/2024",
+    "po_number": "PO-822973",
+    "payment_terms": "Net 30 (Check)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Ruecker, Lehner and Jenkins\n3458 Kulas Street Apt. 474\nLake Delfina, ID 70714\nTax Id: 464-16-7802",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "6'x3' Black Marble Dining Table Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "12,00",
+            "unit": "pcs",
+            "net_price": "111,98 1",
+            "net_worth": "343,76",
+            "vat": "10%",
+            "gross_worth": "1 478,14"
+        },
+        {
+            "item_no": 2,
+            "description": "Ergonomic Mesh Pendant Light Fixture Limited Edition Art Deco Collection",
+            "quantity": "5,00",
+            "unit": "each",
+            "net_price": "45,29 226,45",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "249,10"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n10% 1 570,21 157,03 1 727,24\nTotal Rs 1 570,21 Rs 157,03 Rs 1 727,24"
+}

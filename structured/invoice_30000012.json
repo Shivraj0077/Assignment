@@ -1,0 +1,43 @@
+{
+    "filename": "invoice_30000012.pdf",
+    "invoice_number": "30000012",
+    "invoice_date": "25/12/2021",
+    "due_date": "23/02/2022",
+    "po_number": "PO-554358",
+    "payment_terms": "Net 60 (Bank Transfer)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Frami LLC\n80905 Roxanne Station Apt. 223\nWest Covina, IA 39749-5187\nTax Id: 991-86-7364",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Polished Brass Accent Mirror Limited Edition Art Deco Collection",
+            "quantity": "5,00",
+            "unit": "each",
+            "net_price": "858,74 4",
+            "net_worth": "293,70",
+            "vat": "23%",
+            "gross_worth": "5 281,25"
+        },
+        {
+            "item_no": 2,
+            "description": "Solid Oak Wood Conference Table Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "6,00",
+            "unit": "each",
+            "net_price": "914,77 5",
+            "net_worth": "488,62",
+            "vat": "23%",
+            "gross_worth": "6 751,00"
+        },
+        {
+            "item_no": 3,
+            "description": "Premium Leather Pendant Light Fixture Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "2,00",
+            "unit": "each",
+            "net_price": "906,68 1",
+            "net_worth": "813,36",
+            "vat": "23%",
+            "gross_worth": "2 230,43"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n23% 11 595,68 2 667,00 14 262,68\nTotal Rs 11 595,68 Rs 2 667,00 Rs 14 262,68"
+}

@@ -1,0 +1,113 @@
+{
+    "filename": "invoice_30000007.pdf",
+    "invoice_number": "30000007",
+    "invoice_date": "22/02/2021",
+    "due_date": "08/04/2021",
+    "po_number": "PO-432750",
+    "payment_terms": "Net 45 (ACH)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Bernier and Sons\n193 Kautzer Mall Apt. 720\nLake Katiebury, LA 96814-8974\nTax Id: 469-83-8129",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Premium Leather Bookshelf Unit Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "11,00",
+            "unit": "box",
+            "net_price": "692,64 7",
+            "net_worth": "619,04",
+            "vat": "15%",
+            "gross_worth": "8 761,90"
+        },
+        {
+            "item_no": 2,
+            "description": "Solid Oak Wood Armchair Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "12,00",
+            "unit": "kg",
+            "net_price": "410,97 4",
+            "net_worth": "931,64",
+            "vat": "15%",
+            "gross_worth": "5 671,39"
+        },
+        {
+            "item_no": 3,
+            "description": "Polished Brass Office Desk Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "4,00",
+            "unit": "hrs",
+            "net_price": "317,23 1",
+            "net_worth": "268,92",
+            "vat": "15%",
+            "gross_worth": "1 459,26"
+        },
+        {
+            "item_no": 4,
+            "description": "Solid Oak Wood Pendant Light Fixture Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "12,00",
+            "unit": "days",
+            "net_price": "43,80 525,60",
+            "net_worth": "",
+            "vat": "15%",
+            "gross_worth": "604,44"
+        },
+        {
+            "item_no": 5,
+            "description": "4'x2' Marble Black Pendant Light Fixture Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "2,00",
+            "unit": "kg",
+            "net_price": "1 224,89",
+            "net_worth": "2 449,78",
+            "vat": "15%",
+            "gross_worth": "2 817,25"
+        },
+        {
+            "item_no": 6,
+            "description": "Brushed Steel Accent Mirror Vintage Mid-Century Modern Design",
+            "quantity": "9,00",
+            "unit": "hrs",
+            "net_price": "318,99 2",
+            "net_worth": "870,91",
+            "vat": "15%",
+            "gross_worth": "3 301,55"
+        },
+        {
+            "item_no": 7,
+            "description": "6'x3' Black Marble Decorative Vase Minimalist Nordic Style for Home Office",
+            "quantity": "5,00",
+            "unit": "hrs",
+            "net_price": "739,67 3",
+            "net_worth": "698,35",
+            "vat": "15%",
+            "gross_worth": "4 253,10"
+        },
+        {
+            "item_no": 8,
+            "description": "Tempered Glass Conference Table Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "3,00",
+            "unit": "box",
+            "net_price": "74,24 222,72",
+            "net_worth": "",
+            "vat": "15%",
+            "gross_worth": "256,13"
+        },
+        {
+            "item_no": 9,
+            "description": "Handcrafted Ceramic Dining Table Acoustic Sound-Dampening Modular Panels",
+            "quantity": "10,00",
+            "unit": "hrs",
+            "net_price": "70,96 709,60",
+            "net_worth": "",
+            "vat": "15%",
+            "gross_worth": "816,04"
+        },
+        {
+            "item_no": 10,
+            "description": "High-Density Foam Pendant Light Fixture Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "11,00",
+            "unit": "kg",
+            "net_price": "627,93 6",
+            "net_worth": "907,23",
+            "vat": "15%",
+            "gross_worth": "7 943,31"
+        }
+    ],
+    "summary": ""
+}

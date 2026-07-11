@@ -1,0 +1,63 @@
+{
+    "filename": "invoice_30000035.pdf",
+    "invoice_number": "30000035",
+    "invoice_date": "15/10/2020",
+    "due_date": "14/11/2020",
+    "po_number": "PO-283298",
+    "payment_terms": "Net 30 (Bank Transfer)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Collier and Sons\n9338 Reinger Unions Suite 416\nMurazikport, NM 91887-0084\nTax Id: 639-97-6033",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Custom Engraved Gold Center Top Table Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "12,00",
+            "unit": "each",
+            "net_price": "67,45 809,40",
+            "net_worth": "",
+            "vat": "15%",
+            "gross_worth": "930,81"
+        },
+        {
+            "item_no": 2,
+            "description": "High-Density Foam Conference Table Minimalist Nordic Style for Home Office",
+            "quantity": "2,00",
+            "unit": "box",
+            "net_price": "499,57 999,14",
+            "net_worth": "",
+            "vat": "15%",
+            "gross_worth": "1 149,01"
+        },
+        {
+            "item_no": 3,
+            "description": "Brushed Steel Lounge Chair Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "12,00",
+            "unit": "box",
+            "net_price": "360,91 4",
+            "net_worth": "330,92",
+            "vat": "15%",
+            "gross_worth": "4 980,56"
+        },
+        {
+            "item_no": 4,
+            "description": "Handcrafted Ceramic Conference Table Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "11,00",
+            "unit": "kg",
+            "net_price": "757,66 8",
+            "net_worth": "334,26",
+            "vat": "15%",
+            "gross_worth": "9 584,40"
+        },
+        {
+            "item_no": 5,
+            "description": "Handcrafted Ceramic Center Top Table Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "7,00",
+            "unit": "hrs",
+            "net_price": "5 782,49",
+            "net_worth": "40 477,43",
+            "vat": "15%",
+            "gross_worth": "46 549,04"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n15% 54 951,15 8 242,67 63 193,82\nTotal Rs 54 951,15 Rs 8 242,67 Rs 63 193,82"
+}

@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000064.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000064\nDate of issue:01/02/2021\nDue date: 02/04/2021\nPO number: PO-920487\nPayment terms:Net 60 (Check)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nWunsch Inc\n70182 Claudia Forges Apt. 838\nFresno, WV 93702-7861\nTax Id: 769-86-1910\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Brushed Steel Conference Table\nAcoustic Sound-Dampening Modular\nPanels\n7,00 box 243,20 1 702,40 5% 1 787,52\n2. 4'x2' Marble Black Conference Table\nWeatherproof Powder Coat Finish for\nOutdoor Use\n12,00 each 26,30 315,60 5% 331,38\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n5% 2 018,00 100,90 2 118,90\nTotal Rs 2 018,00 Rs 100,90 Rs 2 118,90\nNotes:\nGoods sold are not returnable. Service warranty applies as per standard terms."
+        }
+    ]
+}

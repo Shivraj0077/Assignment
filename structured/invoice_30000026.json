@@ -1,0 +1,43 @@
+{
+    "filename": "invoice_30000026.pdf",
+    "invoice_number": "30000026",
+    "invoice_date": "21/03/2020",
+    "due_date": "20/05/2020",
+    "po_number": "PO-963575",
+    "payment_terms": "Net 60 (Bank Transfer)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Fay, Lebsack and Abbott\n198 Irma Plaza Suite 677\nEvansville, WV 06913-4059\nTax Id: 745-73-2651",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Solid Oak Wood Credenza Buffet Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "2,00",
+            "unit": "kg",
+            "net_price": "292,22 584,44",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "642,88"
+        },
+        {
+            "item_no": 2,
+            "description": "Solid Oak Wood Bookshelf Unit Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "11,00",
+            "unit": "each",
+            "net_price": "25,60 281,60",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "309,76"
+        },
+        {
+            "item_no": 3,
+            "description": "6'x3' Black Marble Dining Table Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "4,00",
+            "unit": "hrs",
+            "net_price": "358,96 1",
+            "net_worth": "435,84",
+            "vat": "10%",
+            "gross_worth": "1 579,42"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n10% 2 301,88 230,18 2 532,06\nTotal Rs 2 301,88 Rs 230,18 Rs 2 532,06"
+}

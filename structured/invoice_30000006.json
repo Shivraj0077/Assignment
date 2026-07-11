@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000006.pdf",
+    "invoice_number": "30000006",
+    "invoice_date": "31/01/2024",
+    "due_date": "31/03/2024",
+    "po_number": "PO-295161",
+    "payment_terms": "Net 60 (Bank Transfer)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Kovacek, Moen and O'Conner\n72901 W Broadway Street Apt. 308\nRancho Cordova, NV 26124-9438\nTax Id: 588-53-7462",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Brushed Steel Armchair Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "9,00",
+            "unit": "each",
+            "net_price": "83,53 751,77",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "902,12"
+        },
+        {
+            "item_no": 2,
+            "description": "Custom Engraved Gold Conference Table Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "4,00",
+            "unit": "kg",
+            "net_price": "865,18 3",
+            "net_worth": "460,72",
+            "vat": "20%",
+            "gross_worth": "4 152,86"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n20% 4 212,49 842,49 5 054,98\nTotal Rs 4 212,49 Rs 842,49 Rs 5 054,98"
+}

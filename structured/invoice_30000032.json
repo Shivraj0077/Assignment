@@ -1,0 +1,43 @@
+{
+    "filename": "invoice_30000032.pdf",
+    "invoice_number": "30000032",
+    "invoice_date": "07/01/2021",
+    "due_date": "21/02/2021",
+    "po_number": "PO-384054",
+    "payment_terms": "Net 45 (Check)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Bogan - Swaniawski\n28715 Abdiel Pike Suite 258\nPennyworth, TX 41458\nTax Id: 114-44-5680",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Premium Leather Sideboard Cabinet Limited Edition Art Deco Collection",
+            "quantity": "3,00",
+            "unit": "box",
+            "net_price": "55,68 167,04",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "200,45"
+        },
+        {
+            "item_no": 2,
+            "description": "Custom Engraved Gold Center Top Table Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "10,00",
+            "unit": "days",
+            "net_price": "550,49 5",
+            "net_worth": "504,90",
+            "vat": "20%",
+            "gross_worth": "6 605,88"
+        },
+        {
+            "item_no": 3,
+            "description": "6'x3' Black Marble Conference Table Minimalist Nordic Style for Home Office",
+            "quantity": "12,00",
+            "unit": "each",
+            "net_price": "318,99 3",
+            "net_worth": "827,88",
+            "vat": "20%",
+            "gross_worth": "4 593,46"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n20% 9 499,82 1 899,97 11 399,79\nTotal Rs 9 499,82 Rs 1 899,97 Rs 11 399,79"
+}

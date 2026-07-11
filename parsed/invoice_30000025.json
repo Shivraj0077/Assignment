@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000025.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000025\nDate of issue:22/03/2023\nDue date: 06/05/2023\nPO number: PO-810569\nPayment terms:Net 45 (ACH)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nBarton - Kub\n97230 Jessy Orchard Suite 549\nPort Henri, NY 05526\nTax Id: 160-47-9971\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Tempered Glass Decorative Vase\nHeavy Duty Industrial Framework with\nLeveling Feet\n9,00 days 87,15 784,35 23% 964,75\n2. Polished Brass Sideboard Cabinet\nWeatherproof Powder Coat Finish for\nOutdoor Use\n1,00 hrs 831,44 831,44 23% 1 022,67\n3. Rustic Reclaimed Wood Accent Mirror\nVintage Mid-Century Modern Design\n11,00 days 8 152,05 89 672,55 23% 110 297,24\n4. Brushed Steel Lounge Chair Heavy\nDuty Industrial Framework with Leveling\nFeet\n8,00 each 970,08 7 760,64 23% 9 545,59\n5. Polished Brass Conference Table\nVintage Mid-Century Modern Design\n9,00 kg 6 544,62 58 901,58 23% 72 448,94\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n23% 157 950,56 36 328,63 194 279,19\nTotal Rs 157 950,56 Rs 36 328,63 Rs 194 279,19\nNotes:\nStandard delivery included. Tax calculated based on shipping destination."
+        }
+    ]
+}

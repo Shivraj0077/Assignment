@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000017.pdf",
+    "invoice_number": "30000017",
+    "invoice_date": "01/04/2026",
+    "due_date": "16/04/2026",
+    "po_number": "PO-135318",
+    "payment_terms": "Net 15 (Check)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Mertz, Feil and Rau\n7538 Donato Motorway Apt. 837\nBoulder, NY 12744\nTax Id: 457-69-8542",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "4'x2' Marble Black Center Top Table Limited Edition Art Deco Collection",
+            "quantity": "12,00",
+            "unit": "days",
+            "net_price": "895,48 10",
+            "net_worth": "745,76",
+            "vat": "15%",
+            "gross_worth": "12 357,62"
+        },
+        {
+            "item_no": 2,
+            "description": "Premium Leather Office Desk Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "6,00",
+            "unit": "each",
+            "net_price": "6 439,65",
+            "net_worth": "38 637,90",
+            "vat": "15%",
+            "gross_worth": "44 433,59"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n15% 49 383,66 7 407,55 56 791,21\nTotal Rs 49 383,66 Rs 7 407,55 Rs 56 791,21"
+}

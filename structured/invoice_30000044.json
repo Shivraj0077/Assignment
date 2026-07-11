@@ -1,0 +1,12 @@
+{
+    "filename": "invoice_30000044.pdf",
+    "invoice_number": "30000044",
+    "invoice_date": "11/02/2026",
+    "due_date": "12/04/2026",
+    "po_number": "PO-716897",
+    "payment_terms": "Net 60 (ACH)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Kerluke, Friesen and Spinka\n647 E Franklin Street Suite 716\nTowson, SC 44834\nTax Id: 895-48-5425",
+    "items": [],
+    "summary": ""
+}

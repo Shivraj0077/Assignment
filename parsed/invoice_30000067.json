@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000067.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000067\nDate of issue:08/02/2026\nDue date: 10/03/2026\nPO number: PO-438033\nPayment terms:Net 30 (Check)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nLowe, Goodwin and Heidenreich\n24035 Kemmer Heights Apt. 648\nSalvatoretown, NE 78079\nTax Id: 819-59-9184\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Custom Engraved Gold Center Top\nTable Mosaic Gemstone Patio Art Black\nFriday Gift\n9,00 days 68,86 619,74 5% 650,73\n2. Premium Leather Center Top Table\nLimited Edition Art Deco Collection\n11,00 kg 1 902,33 20 925,63 5% 21 971,91\n3. Custom Engraved Gold Pendant Light\nFixture Heavy Duty Industrial\nFramework with Leveling Feet\n11,00 box 77,22 849,42 5% 891,89\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n5% 22 394,79 1 119,74 23 514,53\nTotal Rs 22 394,79 Rs 1 119,74 Rs 23 514,53\nNotes:\nPayment is due within the specified terms. Late fees may apply."
+        }
+    ]
+}

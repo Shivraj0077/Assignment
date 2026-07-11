@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000005.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000005\nDate of issue:12/05/2024\nDue date: 11/07/2024\nPO number: PO-562676\nPayment terms:Net 60 (Check)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nKiehn, Prosacco and Nicolas\n570 Schaden Circles Suite 733\nLake Felipeberg, WV 20331-0715\nTax Id: 910-57-9768\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Brushed Steel Center Top Table\nWeatherproof Powder Coat Finish for\nOutdoor Use\n8,00 hrs 883,24 7 065,92 23% 8 691,08\n2. Ergonomic Mesh Decorative Vase\nPietradura Inlay Scagliola Stone\nDecorate H3096\n11,00 each 83,10 914,10 23% 1 124,34\n3. Polished Brass Dining Table Limited\nEdition Art Deco Collection\n12,00 box 3 443,39 41 320,68 23% 50 824,44\n4. Tempered Glass Decorative Vase\nHeavy Duty Industrial Framework with\nLeveling Feet\n3,00 kg 31,46 94,38 23% 116,09\n5. Rustic Reclaimed Wood Accent Mirror\nMosaic Gemstone Patio Art Black\nFriday Gift\n3,00 kg 405,71 1 217,13 23% 1 497,07\n6. Solid Oak Wood Lounge Chair\nMinimalist Nordic Style for Home Office\n3,00 pcs 830,03 2 490,09 23% 3 062,81\n7. Handcrafted Ceramic Decorative Vase\nPietradura Inlay Scagliola Stone\nDecorate H3096\n12,00 kg 768,44 9 221,28 23% 11 342,17\n8. Handcrafted Ceramic Credenza Buffet\nWeatherproof Powder Coat Finish for\nOutdoor Use\n12,00 pcs 296,71 3 560,52 23% 4 379,44\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n23% 65 884,10 15 153,34 81 037,44\nTotal Rs 65 884,10 Rs 15 153,34 Rs 81 037,44"
+        }
+    ]
+}

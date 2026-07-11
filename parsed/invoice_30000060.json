@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000060.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000060\nDate of issue:26/03/2022\nDue date: 25/04/2022\nPO number: PO-932974\nPayment terms:Net 30 (ACH)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nBraun, Kling and Stehr\n4992 Debbie Manors Suite 572\nSanta Rosa, VA 21999-5508\nTax Id: 243-75-1629\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. 4'x2' Marble Black Credenza Buffet\nPietradura Inlay Scagliola Stone\nDecorate H3096\n10,00 days 689,97 6 899,70 15% 7 934,66\n2. Handcrafted Ceramic Armchair Acoustic\nSound-Dampening Modular Panels\n2,00 hrs 287,31 574,62 15% 660,81\n3. Brushed Steel Pendant Light Fixture\nVintage Mid-Century Modern Design\n2,00 each 626,13 1 252,26 15% 1 440,10\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n15% 8 726,58 1 308,99 10 035,57\nTotal Rs 8 726,58 Rs 1 308,99 Rs 10 035,57\nNotes:\nStandard delivery included. Tax calculated based on shipping destination."
+        }
+    ]
+}

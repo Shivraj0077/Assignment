@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000031.pdf",
+    "invoice_number": "30000031",
+    "invoice_date": "28/10/2022",
+    "due_date": "12/11/2022",
+    "po_number": "PO-807813",
+    "payment_terms": "Net 15 (Check)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Windler - Herman\n73389 Hermann Drives Suite 837\nEast Lauren, ID 73487\nTax Id: 733-91-3967",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Handcrafted Ceramic Conference Table Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "10,00",
+            "unit": "each",
+            "net_price": "40,81 408,10",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "448,91"
+        },
+        {
+            "item_no": 2,
+            "description": "Tempered Glass Credenza Buffet Minimalist Nordic Style for Home Office",
+            "quantity": "6,00",
+            "unit": "kg",
+            "net_price": "7 928,51",
+            "net_worth": "47 571,06",
+            "vat": "10%",
+            "gross_worth": "52 328,17"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n10% 47 979,16 4 797,92 52 777,08\nTotal Rs 47 979,16 Rs 4 797,92 Rs 52 777,08"
+}

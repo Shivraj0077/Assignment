@@ -1,0 +1,93 @@
+{
+    "filename": "invoice_30000014.pdf",
+    "invoice_number": "30000014",
+    "invoice_date": "01/01/2020",
+    "due_date": "16/01/2020",
+    "po_number": "PO-396808",
+    "payment_terms": "Net 15 (Bank Transfer)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Beatty Group\n292 Kassulke Parks Apt. 966\nCalebbury, AZ 21461\nTax Id: 953-25-1513",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Premium Leather Bookshelf Unit Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "7,00",
+            "unit": "hrs",
+            "net_price": "63,08 441,56",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "543,12"
+        },
+        {
+            "item_no": 2,
+            "description": "Polished Brass Sideboard Cabinet Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "7,00",
+            "unit": "each",
+            "net_price": "10,42 72,94",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "89,72"
+        },
+        {
+            "item_no": 3,
+            "description": "Polished Brass Decorative Vase Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "10,00",
+            "unit": "pcs",
+            "net_price": "243,16 2",
+            "net_worth": "431,60",
+            "vat": "23%",
+            "gross_worth": "2 990,87"
+        },
+        {
+            "item_no": 4,
+            "description": "Handcrafted Ceramic Credenza Buffet Acoustic Sound-Dampening Modular Panels",
+            "quantity": "12,00",
+            "unit": "pcs",
+            "net_price": "33,74 404,88",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "498,00"
+        },
+        {
+            "item_no": 5,
+            "description": "6'x3' Black Marble Accent Mirror Acoustic Sound-Dampening Modular Panels",
+            "quantity": "6,00",
+            "unit": "hrs",
+            "net_price": "580,91 3",
+            "net_worth": "485,46",
+            "vat": "23%",
+            "gross_worth": "4 287,12"
+        },
+        {
+            "item_no": 6,
+            "description": "Custom Engraved Gold Conference Table Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "7,00",
+            "unit": "box",
+            "net_price": "734,65 5",
+            "net_worth": "142,55",
+            "vat": "23%",
+            "gross_worth": "6 325,34"
+        },
+        {
+            "item_no": 7,
+            "description": "Premium Leather Credenza Buffet Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "12,00",
+            "unit": "each",
+            "net_price": "307,07 3",
+            "net_worth": "684,84",
+            "vat": "23%",
+            "gross_worth": "4 532,35"
+        },
+        {
+            "item_no": 8,
+            "description": "Solid Oak Wood Conference Table Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "11,00",
+            "unit": "pcs",
+            "net_price": "235,88 2",
+            "net_worth": "594,68",
+            "vat": "23%",
+            "gross_worth": "3 191,46"
+        }
+    ],
+    "summary": ""
+}

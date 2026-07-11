@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000017.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000017\nDate of issue:01/04/2026\nDue date: 16/04/2026\nPO number: PO-135318\nPayment terms:Net 15 (Check)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nMertz, Feil and Rau\n7538 Donato Motorway Apt. 837\nBoulder, NY 12744\nTax Id: 457-69-8542\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. 4'x2' Marble Black Center Top Table\nLimited Edition Art Deco Collection\n12,00 days 895,48 10 745,76 15% 12 357,62\n2. Premium Leather Office Desk\nPietradura Inlay Scagliola Stone\nDecorate H3096\n6,00 each 6 439,65 38 637,90 15% 44 433,59\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n15% 49 383,66 7 407,55 56 791,21\nTotal Rs 49 383,66 Rs 7 407,55 Rs 56 791,21\nNotes:\nThank you for your business. Please remit payment at your earliest convenience."
+        }
+    ]
+}

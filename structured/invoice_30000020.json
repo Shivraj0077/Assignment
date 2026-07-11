@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000020.pdf",
+    "invoice_number": "30000020",
+    "invoice_date": "21/12/2020",
+    "due_date": "20/01/2021",
+    "po_number": "PO-298720",
+    "payment_terms": "Net 30 (Credit Card)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Kemmer Group\n181 Buckridge Underpass Apt. 553\nKautzerport, IL 78471\nTax Id: 236-13-7906",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Brushed Steel Decorative Vase Acoustic Sound-Dampening Modular Panels",
+            "quantity": "7,00",
+            "unit": "hrs",
+            "net_price": "22,35 156,45",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "187,74"
+        },
+        {
+            "item_no": 2,
+            "description": "Premium Leather Sideboard Cabinet Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "5,00",
+            "unit": "box",
+            "net_price": "25,89 129,45",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "155,34"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n20% 285,90 57,18 343,08\nTotal Rs 285,90 Rs 57,18 Rs 343,08"
+}

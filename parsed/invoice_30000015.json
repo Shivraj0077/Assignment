@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000015.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000015\nDate of issue:19/06/2022\nDue date: 04/07/2022\nPO number: PO-656283\nPayment terms:Net 15 (Check)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nSimonis, Howell-Wilkinson and Skiles\n84091 Castle Close Apt. 698\nNorth Lamont, MD 72527-6334\nTax Id: 426-78-2631\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Solid Oak Wood Credenza Buffet\nWeatherproof Powder Coat Finish for\nOutdoor Use\n2,00 each 401,27 802,54 20% 963,05\n2. Brushed Steel Accent Mirror Acoustic\nSound-Dampening Modular Panels\n8,00 days 576,50 4 612,00 20% 5 534,40\n3. Polished Brass Pendant Light Fixture\nHeavy Duty Industrial Framework with\nLeveling Feet\n6,00 hrs 1 916,33 11 497,98 20% 13 797,58\n4. 6'x3' Black Marble Armchair Minimalist\nNordic Style for Home Office\n12,00 each 1 076,91 12 922,92 20% 15 507,50\n5. Custom Engraved Gold Armchair\nWeatherproof Powder Coat Finish for\nOutdoor Use\n1,00 pcs 156,53 156,53 20% 187,84\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n20% 29 991,97 5 998,40 35 990,37\nTotal Rs 29 991,97 Rs 5 998,40 Rs 35 990,37\nNotes:\nGoods sold are not returnable. Service warranty applies as per standard terms."
+        }
+    ]
+}

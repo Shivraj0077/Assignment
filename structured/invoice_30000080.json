@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000080.pdf",
+    "invoice_number": "30000080",
+    "invoice_date": "12/10/2023",
+    "due_date": "26/11/2023",
+    "po_number": "PO-746019",
+    "payment_terms": "Net 45 (Bank Transfer)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Considine - Hettinger\n253 Mae Haven Suite 337\nDevantebury, NM 55502-6353\nTax Id: 497-80-4576",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Handcrafted Ceramic Pendant Light Fixture Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "5,00",
+            "unit": "days",
+            "net_price": "14,88 74,40",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "89,28"
+        },
+        {
+            "item_no": 2,
+            "description": "Rustic Reclaimed Wood Accent Mirror Minimalist Nordic Style for Home Office",
+            "quantity": "7,00",
+            "unit": "each",
+            "net_price": "728,76 5",
+            "net_worth": "101,32",
+            "vat": "20%",
+            "gross_worth": "6 121,58"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n20% 5 175,72 1 035,14 6 210,86\nTotal Rs 5 175,72 Rs 1 035,14 Rs 6 210,86"
+}

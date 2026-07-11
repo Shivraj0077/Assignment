@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000064.pdf",
+    "invoice_number": "30000064",
+    "invoice_date": "01/02/2021",
+    "due_date": "02/04/2021",
+    "po_number": "PO-920487",
+    "payment_terms": "Net 60 (Check)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Wunsch Inc\n70182 Claudia Forges Apt. 838\nFresno, WV 93702-7861\nTax Id: 769-86-1910",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Brushed Steel Conference Table Acoustic Sound-Dampening Modular Panels",
+            "quantity": "7,00",
+            "unit": "box",
+            "net_price": "243,20 1",
+            "net_worth": "702,40",
+            "vat": "5%",
+            "gross_worth": "1 787,52"
+        },
+        {
+            "item_no": 2,
+            "description": "4'x2' Marble Black Conference Table Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "12,00",
+            "unit": "each",
+            "net_price": "26,30 315,60",
+            "net_worth": "",
+            "vat": "5%",
+            "gross_worth": "331,38"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n5% 2 018,00 100,90 2 118,90\nTotal Rs 2 018,00 Rs 100,90 Rs 2 118,90"
+}

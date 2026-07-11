@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000068.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000068\nDate of issue:19/07/2020\nDue date: 18/08/2020\nPO number: PO-991224\nPayment terms:Net 30 (Bank Transfer)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nZemlak, Lueilwitz and Moen\n41681 Fairfield Road Apt. 516\nSouth Jaimeburgh, IL 24275-7002\nTax Id: 285-95-7682\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Rustic Reclaimed Wood Armchair\nWeatherproof Powder Coat Finish for\nOutdoor Use\n7,00 pcs 89,49 626,43 23% 770,51\n2. Solid Oak Wood Sideboard Cabinet\nHeavy Duty Industrial Framework with\nLeveling Feet\n12,00 pcs 53,29 639,48 23% 786,56\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n23% 1 265,91 291,16 1 557,07\nTotal Rs 1 265,91 Rs 291,16 Rs 1 557,07\nNotes:\nGoods sold are not returnable. Service warranty applies as per standard terms."
+        }
+    ]
+}

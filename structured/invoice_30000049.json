@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000049.pdf",
+    "invoice_number": "30000049",
+    "invoice_date": "25/05/2021",
+    "due_date": "09/06/2021",
+    "po_number": "PO-547657",
+    "payment_terms": "Net 15 (ACH)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Predovic - Johns\n39594 McKenzie Union Suite 232\nWest Ryanside, KY 70163\nTax Id: 126-23-3788",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Rustic Reclaimed Wood Office Desk Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "7,00",
+            "unit": "hrs",
+            "net_price": "964,21 6",
+            "net_worth": "749,47",
+            "vat": "10%",
+            "gross_worth": "7 424,42"
+        },
+        {
+            "item_no": 2,
+            "description": "Solid Oak Wood Conference Table Acoustic Sound-Dampening Modular Panels",
+            "quantity": "12,00",
+            "unit": "box",
+            "net_price": "3 222,51",
+            "net_worth": "38 670,12",
+            "vat": "10%",
+            "gross_worth": "42 537,13"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n10% 45 419,59 4 541,96 49 961,55\nTotal Rs 45 419,59 Rs 4 541,96 Rs 49 961,55"
+}

@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000037.pdf",
+    "invoice_number": "30000037",
+    "invoice_date": "20/04/2020",
+    "due_date": "05/05/2020",
+    "po_number": "PO-558269",
+    "payment_terms": "Net 15 (Bank Transfer)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Luettgen - Renner\n30859 Wyman Centers Apt. 642\nFort Gerardstead, AK 79874\nTax Id: 717-66-8286",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Brushed Steel Conference Table Limited Edition Art Deco Collection",
+            "quantity": "3,00",
+            "unit": "box",
+            "net_price": "108,51 325,53",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "390,64"
+        },
+        {
+            "item_no": 2,
+            "description": "Rustic Reclaimed Wood Armchair Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "8,00",
+            "unit": "box",
+            "net_price": "84,81 678,48",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "814,18"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n20% 1 004,01 200,81 1 204,82\nTotal Rs 1 004,01 Rs 200,81 Rs 1 204,82"
+}

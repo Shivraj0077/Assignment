@@ -1,0 +1,63 @@
+{
+    "filename": "invoice_30000074.pdf",
+    "invoice_number": "30000074",
+    "invoice_date": "23/03/2023",
+    "due_date": "07/05/2023",
+    "po_number": "PO-438520",
+    "payment_terms": "Net 45 (ACH)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Johns LLC\n186 Forest Road Apt. 226\nBergeport, WV 21978\nTax Id: 747-53-3630",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Tempered Glass Office Desk Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "8,00",
+            "unit": "days",
+            "net_price": "42,88 343,04",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "421,94"
+        },
+        {
+            "item_no": 2,
+            "description": "Premium Leather Credenza Buffet Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "5,00",
+            "unit": "days",
+            "net_price": "241,72 1",
+            "net_worth": "208,60",
+            "vat": "23%",
+            "gross_worth": "1 486,58"
+        },
+        {
+            "item_no": 3,
+            "description": "Solid Oak Wood Conference Table Minimalist Nordic Style for Home Office",
+            "quantity": "9,00",
+            "unit": "each",
+            "net_price": "873,47 7",
+            "net_worth": "861,23",
+            "vat": "23%",
+            "gross_worth": "9 669,31"
+        },
+        {
+            "item_no": 4,
+            "description": "Brushed Steel Office Desk Limited Edition Art Deco Collection",
+            "quantity": "7,00",
+            "unit": "hrs",
+            "net_price": "392,19 2",
+            "net_worth": "745,33",
+            "vat": "23%",
+            "gross_worth": "3 376,76"
+        },
+        {
+            "item_no": 5,
+            "description": "Polished Brass Pendant Light Fixture Minimalist Nordic Style for Home Office",
+            "quantity": "1,00",
+            "unit": "hrs",
+            "net_price": "91,22 91,22",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "112,20"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n23% 12 249,42 2 817,37 15 066,79\nTotal Rs 12 249,42 Rs 2 817,37 Rs 15 066,79"
+}

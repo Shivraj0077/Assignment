@@ -1,0 +1,63 @@
+{
+    "filename": "invoice_30000022.pdf",
+    "invoice_number": "30000022",
+    "invoice_date": "20/12/2021",
+    "due_date": "19/01/2022",
+    "po_number": "PO-508689",
+    "payment_terms": "Net 30 (ACH)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Bauch and Sons\n8891 St Andrew's Road Apt. 662\nCareytown, NH 05339\nTax Id: 618-17-8364",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Polished Brass Credenza Buffet Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "7,00",
+            "unit": "days",
+            "net_price": "139,44 976,08",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "1 171,30"
+        },
+        {
+            "item_no": 2,
+            "description": "4'x2' Marble Black Center Top Table Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "5,00",
+            "unit": "pcs",
+            "net_price": "864,19 4",
+            "net_worth": "320,95",
+            "vat": "20%",
+            "gross_worth": "5 185,14"
+        },
+        {
+            "item_no": 3,
+            "description": "Premium Leather Accent Mirror Vintage Mid-Century Modern Design",
+            "quantity": "12,00",
+            "unit": "pcs",
+            "net_price": "443,11 5",
+            "net_worth": "317,32",
+            "vat": "20%",
+            "gross_worth": "6 380,78"
+        },
+        {
+            "item_no": 4,
+            "description": "6'x3' Black Marble Armchair Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "1,00",
+            "unit": "each",
+            "net_price": "776,96 776,96",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "932,35"
+        },
+        {
+            "item_no": 5,
+            "description": "Premium Leather Office Desk Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "5,00",
+            "unit": "box",
+            "net_price": "10,55 52,75",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "63,30"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n20% 11 444,06 2 288,81 13 732,87\nTotal Rs 11 444,06 Rs 2 288,81 Rs 13 732,87"
+}

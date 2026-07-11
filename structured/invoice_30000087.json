@@ -1,0 +1,63 @@
+{
+    "filename": "invoice_30000087.pdf",
+    "invoice_number": "30000087",
+    "invoice_date": "06/02/2022",
+    "due_date": "21/02/2022",
+    "po_number": "PO-382815",
+    "payment_terms": "Net 15 (Credit Card)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Stehr and Sons\n20705 Nicolas Estates Suite 151\nSouth Lorettabury, NJ 17989\nTax Id: 783-43-7175",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Polished Brass Decorative Vase Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "12,00",
+            "unit": "each",
+            "net_price": "4 867,79",
+            "net_worth": "58 413,48",
+            "vat": "10%",
+            "gross_worth": "64 254,83"
+        },
+        {
+            "item_no": 2,
+            "description": "4'x2' Marble Black Decorative Vase Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "11,00",
+            "unit": "box",
+            "net_price": "55,81 613,91",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "675,30"
+        },
+        {
+            "item_no": 3,
+            "description": "Tempered Glass Decorative Vase Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "11,00",
+            "unit": "kg",
+            "net_price": "971,03 10",
+            "net_worth": "681,33",
+            "vat": "10%",
+            "gross_worth": "11 749,46"
+        },
+        {
+            "item_no": 4,
+            "description": "Rustic Reclaimed Wood Credenza Buffet Limited Edition Art Deco Collection",
+            "quantity": "4,00",
+            "unit": "kg",
+            "net_price": "6 084,74",
+            "net_worth": "24 338,96",
+            "vat": "10%",
+            "gross_worth": "26 772,86"
+        },
+        {
+            "item_no": 5,
+            "description": "Solid Oak Wood Office Desk Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "12,00",
+            "unit": "pcs",
+            "net_price": "7 717,92",
+            "net_worth": "92 615,04",
+            "vat": "10%",
+            "gross_worth": "101 876,54"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n10% 186 662,72 18 666,27 205 328,99\nTotal Rs 186 662,72 Rs 18 666,27 Rs 205 328,99"
+}

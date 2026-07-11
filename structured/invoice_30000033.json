@@ -1,0 +1,63 @@
+{
+    "filename": "invoice_30000033.pdf",
+    "invoice_number": "30000033",
+    "invoice_date": "22/07/2022",
+    "due_date": "05/09/2022",
+    "po_number": "PO-160198",
+    "payment_terms": "Net 45 (Bank Transfer)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Kutch Inc\n7355 Roob Creek Suite 525\nBarrowsborough, IL 25948\nTax Id: 604-49-6514",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Brushed Steel Decorative Vase Minimalist Nordic Style for Home Office",
+            "quantity": "7,00",
+            "unit": "pcs",
+            "net_price": "315,24 2",
+            "net_worth": "206,68",
+            "vat": "10%",
+            "gross_worth": "2 427,35"
+        },
+        {
+            "item_no": 2,
+            "description": "Custom Engraved Gold Armchair Acoustic Sound-Dampening Modular Panels",
+            "quantity": "8,00",
+            "unit": "kg",
+            "net_price": "633,15 5",
+            "net_worth": "065,20",
+            "vat": "10%",
+            "gross_worth": "5 571,72"
+        },
+        {
+            "item_no": 3,
+            "description": "Brushed Steel Lounge Chair Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "1,00",
+            "unit": "box",
+            "net_price": "835,08 835,08",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "918,59"
+        },
+        {
+            "item_no": 4,
+            "description": "Custom Engraved Gold Credenza Buffet Minimalist Nordic Style for Home Office",
+            "quantity": "4,00",
+            "unit": "box",
+            "net_price": "70,54 282,16",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "310,38"
+        },
+        {
+            "item_no": 5,
+            "description": "Solid Oak Wood Accent Mirror Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "1,00",
+            "unit": "hrs",
+            "net_price": "553,34 553,34",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "608,67"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n10% 8 942,46 894,25 9 836,71\nTotal Rs 8 942,46 Rs 894,25 Rs 9 836,71"
+}

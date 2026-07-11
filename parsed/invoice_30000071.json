@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000071.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000071\nDate of issue:21/08/2020\nDue date: 05/10/2020\nPO number: PO-592735\nPayment terms:Net 45 (Bank Transfer)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nSauer, Corwin and Lindgren\n5046 Lucia Plaza Apt. 132\nLynn, IN 86405-0081\nTax Id: 516-46-1100\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Ergonomic Mesh Decorative Vase\nMinimalist Nordic Style for Home Office\n11,00 hrs 7 616,51 83 781,61 23% 103 051,38\n2. Solid Oak Wood Pendant Light Fixture\nHeavy Duty Industrial Framework with\nLeveling Feet\n3,00 hrs 38,28 114,84 23% 141,25\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n23% 83 896,45 19 296,18 103 192,63\nTotal Rs 83 896,45 Rs 19 296,18 Rs 103 192,63\nNotes:\nPlease include the invoice number on your check or wire transfer reference."
+        }
+    ]
+}

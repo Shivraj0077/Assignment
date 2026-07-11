@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000018.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000018\nDate of issue:21/04/2020\nDue date: 05/06/2020\nPO number: PO-633965\nPayment terms:Net 45 (ACH)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nHarris Inc\n457 Ed Ports Suite 740\nHarrishaven, CA 41135\nTax Id: 531-46-7101\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. High-Density Foam Decorative Vase\nMinimalist Nordic Style for Home Office\n3,00 each 190,89 572,67 23% 704,38\n2. Tempered Glass Decorative Vase\nVintage Mid-Century Modern Design\n4,00 box 421,02 1 684,08 23% 2 071,42\n3. Solid Oak Wood Decorative Vase\nWeatherproof Powder Coat Finish for\nOutdoor Use\n6,00 days 166,62 999,72 23% 1 229,66\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n23% 3 256,47 748,99 4 005,46\nTotal Rs 3 256,47 Rs 748,99 Rs 4 005,46\nNotes:\nPayment is due within the specified terms. Late fees may apply."
+        }
+    ]
+}

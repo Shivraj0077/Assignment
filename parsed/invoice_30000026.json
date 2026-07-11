@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000026.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000026\nDate of issue:21/03/2020\nDue date: 20/05/2020\nPO number: PO-963575\nPayment terms:Net 60 (Bank Transfer)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nFay, Lebsack and Abbott\n198 Irma Plaza Suite 677\nEvansville, WV 06913-4059\nTax Id: 745-73-2651\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Solid Oak Wood Credenza Buffet\nHeavy Duty Industrial Framework with\nLeveling Feet\n2,00 kg 292,22 584,44 10% 642,88\n2. Solid Oak Wood Bookshelf Unit\nWeatherproof Powder Coat Finish for\nOutdoor Use\n11,00 each 25,60 281,60 10% 309,76\n3. 6'x3' Black Marble Dining Table Mosaic\nGemstone Patio Art Black Friday Gift\n4,00 hrs 358,96 1 435,84 10% 1 579,42\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n10% 2 301,88 230,18 2 532,06\nTotal Rs 2 301,88 Rs 230,18 Rs 2 532,06\nNotes:\nPayment is due within the specified terms. Late fees may apply."
+        }
+    ]
+}

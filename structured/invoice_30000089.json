@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000089.pdf",
+    "invoice_number": "30000089",
+    "invoice_date": "30/09/2021",
+    "due_date": "29/11/2021",
+    "po_number": "PO-816204",
+    "payment_terms": "Net 60 (Credit Card)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Bailey, Murray and Leffler\n1417 Garrison Estate Suite 932\nNew Nannieland, IL 21336\nTax Id: 527-10-7190",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Ergonomic Mesh Lounge Chair Vintage Mid-Century Modern Design",
+            "quantity": "1,00",
+            "unit": "days",
+            "net_price": "908,13 908,13",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "1 089,76"
+        },
+        {
+            "item_no": 2,
+            "description": "Handcrafted Ceramic Accent Mirror Vintage Mid-Century Modern Design",
+            "quantity": "3,00",
+            "unit": "kg",
+            "net_price": "50,42 151,26",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "181,51"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n20% 1 059,39 211,88 1 271,27\nTotal Rs 1 059,39 Rs 211,88 Rs 1 271,27"
+}

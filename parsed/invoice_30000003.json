@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000003.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000003\nDate of issue:17/01/2021\nDue date: 16/02/2021\nPO number: PO-269798\nPayment terms:Net 30 (Bank Transfer)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nSenger Group\n3626 E Central Avenue Suite 458\nLeuschkehaven, NC 67224\nTax Id: 379-15-6155\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Brushed Steel Accent Mirror Vintage\nMid-Century Modern Design\n8,00 box 994,33 7 954,64 10% 8 750,10\n2. Tempered Glass Lounge Chair\nPietradura Inlay Scagliola Stone\nDecorate H3096\n2,00 box 67,19 134,38 10% 147,82\n3. Premium Leather Credenza Buffet\nMinimalist Nordic Style for Home Office\n4,00 each 44,04 176,16 10% 193,78\n4. Handcrafted Ceramic Center Top Table\nMinimalist Nordic Style for Home Office\n1,00 each 886,36 886,36 10% 975,00\n5. Premium Leather Accent Mirror\nPietradura Inlay Scagliola Stone\nDecorate H3096\n7,00 box 909,10 6 363,70 10% 7 000,07\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n10% 15 515,24 1 551,53 17 066,77\nTotal Rs 15 515,24 Rs 1 551,53 Rs 17 066,77\nNotes:\nStandard delivery included. Tax calculated based on shipping destination."
+        }
+    ]
+}

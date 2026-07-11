@@ -1,0 +1,43 @@
+{
+    "filename": "invoice_30000009.pdf",
+    "invoice_number": "30000009",
+    "invoice_date": "02/05/2026",
+    "due_date": "01/06/2026",
+    "po_number": "PO-312264",
+    "payment_terms": "Net 30 (Credit Card)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Bahringer LLC\n699 Arnaldo Path Apt. 726\nSouth Sharonhaven, ID 55570-3286\nTax Id: 193-56-7382",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "4'x2' Marble Black Accent Mirror Limited Edition Art Deco Collection",
+            "quantity": "11,00",
+            "unit": "each",
+            "net_price": "744,75 8",
+            "net_worth": "192,25",
+            "vat": "23%",
+            "gross_worth": "10 076,47"
+        },
+        {
+            "item_no": 2,
+            "description": "Rustic Reclaimed Wood Office Desk Minimalist Nordic Style for Home Office",
+            "quantity": "6,00",
+            "unit": "pcs",
+            "net_price": "894,80 5",
+            "net_worth": "368,80",
+            "vat": "23%",
+            "gross_worth": "6 603,62"
+        },
+        {
+            "item_no": 3,
+            "description": "6'x3' Black Marble Armchair Minimalist Nordic Style for Home Office",
+            "quantity": "8,00",
+            "unit": "kg",
+            "net_price": "476,84 3",
+            "net_worth": "814,72",
+            "vat": "23%",
+            "gross_worth": "4 692,11"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n23% 17 375,77 3 996,43 21 372,20\nTotal Rs 17 375,77 Rs 3 996,43 Rs 21 372,20"
+}

@@ -1,0 +1,113 @@
+{
+    "filename": "invoice_30000100.pdf",
+    "invoice_number": "30000100",
+    "invoice_date": "28/03/2023",
+    "due_date": "12/04/2023",
+    "po_number": "PO-485033",
+    "payment_terms": "Net 15 (Credit Card)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Heathcote-Vandervort, Kreiger and Wuckert\n765 Sabryna Glens Apt. 512\nStamm-Jaskolskistad, WI 21620\nTax Id: 653-44-6452",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Premium Leather Sideboard Cabinet Minimalist Nordic Style for Home Office",
+            "quantity": "3,00",
+            "unit": "box",
+            "net_price": "62,66 187,98",
+            "net_worth": "",
+            "vat": "15%",
+            "gross_worth": "216,18"
+        },
+        {
+            "item_no": 2,
+            "description": "High-Density Foam Lounge Chair Vintage Mid-Century Modern Design",
+            "quantity": "7,00",
+            "unit": "pcs",
+            "net_price": "8 322,44",
+            "net_worth": "58 257,08",
+            "vat": "15%",
+            "gross_worth": "66 995,64"
+        },
+        {
+            "item_no": 3,
+            "description": "High-Density Foam Office Desk Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "3,00",
+            "unit": "box",
+            "net_price": "2 848,18",
+            "net_worth": "8 544,54",
+            "vat": "15%",
+            "gross_worth": "9 826,22"
+        },
+        {
+            "item_no": 4,
+            "description": "High-Density Foam Sideboard Cabinet Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "8,00",
+            "unit": "days",
+            "net_price": "5 467,98",
+            "net_worth": "43 743,84",
+            "vat": "15%",
+            "gross_worth": "50 305,42"
+        },
+        {
+            "item_no": 5,
+            "description": "High-Density Foam Armchair Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "7,00",
+            "unit": "box",
+            "net_price": "82,09 574,63",
+            "net_worth": "",
+            "vat": "15%",
+            "gross_worth": "660,82"
+        },
+        {
+            "item_no": 6,
+            "description": "High-Density Foam Dining Table Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "8,00",
+            "unit": "pcs",
+            "net_price": "774,94 6",
+            "net_worth": "199,52",
+            "vat": "15%",
+            "gross_worth": "7 129,45"
+        },
+        {
+            "item_no": 7,
+            "description": "Solid Oak Wood Office Desk Vintage Mid-Century Modern Design",
+            "quantity": "6,00",
+            "unit": "days",
+            "net_price": "706,64 4",
+            "net_worth": "239,84",
+            "vat": "15%",
+            "gross_worth": "4 875,82"
+        },
+        {
+            "item_no": 8,
+            "description": "Brushed Steel Sideboard Cabinet Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "12,00",
+            "unit": "kg",
+            "net_price": "619,43 7",
+            "net_worth": "433,16",
+            "vat": "15%",
+            "gross_worth": "8 548,13"
+        },
+        {
+            "item_no": 9,
+            "description": "Premium Leather Bookshelf Unit Minimalist Nordic Style for Home Office",
+            "quantity": "4,00",
+            "unit": "days",
+            "net_price": "48,97 195,88",
+            "net_worth": "",
+            "vat": "15%",
+            "gross_worth": "225,26"
+        },
+        {
+            "item_no": 10,
+            "description": "Solid Oak Wood Pendant Light Fixture Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "4,00",
+            "unit": "each",
+            "net_price": "70,99 283,96",
+            "net_worth": "",
+            "vat": "15%",
+            "gross_worth": "326,55"
+        }
+    ],
+    "summary": ""
+}

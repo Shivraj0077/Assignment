@@ -1,0 +1,43 @@
+{
+    "filename": "invoice_30000060.pdf",
+    "invoice_number": "30000060",
+    "invoice_date": "26/03/2022",
+    "due_date": "25/04/2022",
+    "po_number": "PO-932974",
+    "payment_terms": "Net 30 (ACH)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Braun, Kling and Stehr\n4992 Debbie Manors Suite 572\nSanta Rosa, VA 21999-5508\nTax Id: 243-75-1629",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "4'x2' Marble Black Credenza Buffet Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "10,00",
+            "unit": "days",
+            "net_price": "689,97 6",
+            "net_worth": "899,70",
+            "vat": "15%",
+            "gross_worth": "7 934,66"
+        },
+        {
+            "item_no": 2,
+            "description": "Handcrafted Ceramic Armchair Acoustic Sound-Dampening Modular Panels",
+            "quantity": "2,00",
+            "unit": "hrs",
+            "net_price": "287,31 574,62",
+            "net_worth": "",
+            "vat": "15%",
+            "gross_worth": "660,81"
+        },
+        {
+            "item_no": 3,
+            "description": "Brushed Steel Pendant Light Fixture Vintage Mid-Century Modern Design",
+            "quantity": "2,00",
+            "unit": "each",
+            "net_price": "626,13 1",
+            "net_worth": "252,26",
+            "vat": "15%",
+            "gross_worth": "1 440,10"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n15% 8 726,58 1 308,99 10 035,57\nTotal Rs 8 726,58 Rs 1 308,99 Rs 10 035,57"
+}

@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000050.pdf",
+    "invoice_number": "30000050",
+    "invoice_date": "24/05/2025",
+    "due_date": "08/07/2025",
+    "po_number": "PO-812101",
+    "payment_terms": "Net 45 (Credit Card)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Murphy - O'Hara\n85679 Christy Turnpike Apt. 407\nO'Konside, IA 25786\nTax Id: 837-75-4963",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Polished Brass Bookshelf Unit Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "3,00",
+            "unit": "hrs",
+            "net_price": "170,91 512,73",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "630,66"
+        },
+        {
+            "item_no": 2,
+            "description": "Rustic Reclaimed Wood Dining Table Vintage Mid-Century Modern Design",
+            "quantity": "3,00",
+            "unit": "days",
+            "net_price": "48,20 144,60",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "177,86"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n23% 657,33 151,19 808,52\nTotal Rs 657,33 Rs 151,19 Rs 808,52"
+}

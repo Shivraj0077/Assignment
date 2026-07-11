@@ -1,0 +1,12 @@
+{
+    "filename": "invoice_30000065.pdf",
+    "invoice_number": "30000065",
+    "invoice_date": "21/07/2025",
+    "due_date": "05/08/2025",
+    "po_number": "PO-222809",
+    "payment_terms": "Net 15 (ACH)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Bauch, Batz and Kulas\n6272 Lakin-Berge Mount Suite 256\nOrem, ME 28635\nTax Id: 455-63-4203",
+    "items": [],
+    "summary": ""
+}

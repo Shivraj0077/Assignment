@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000071.pdf",
+    "invoice_number": "30000071",
+    "invoice_date": "21/08/2020",
+    "due_date": "05/10/2020",
+    "po_number": "PO-592735",
+    "payment_terms": "Net 45 (Bank Transfer)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Sauer, Corwin and Lindgren\n5046 Lucia Plaza Apt. 132\nLynn, IN 86405-0081\nTax Id: 516-46-1100",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Ergonomic Mesh Decorative Vase Minimalist Nordic Style for Home Office",
+            "quantity": "11,00",
+            "unit": "hrs",
+            "net_price": "7 616,51",
+            "net_worth": "83 781,61",
+            "vat": "23%",
+            "gross_worth": "103 051,38"
+        },
+        {
+            "item_no": 2,
+            "description": "Solid Oak Wood Pendant Light Fixture Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "3,00",
+            "unit": "hrs",
+            "net_price": "38,28 114,84",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "141,25"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n23% 83 896,45 19 296,18 103 192,63\nTotal Rs 83 896,45 Rs 19 296,18 Rs 103 192,63"
+}

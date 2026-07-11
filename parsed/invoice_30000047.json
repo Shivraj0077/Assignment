@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000047.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000047\nDate of issue:11/01/2022\nDue date: 25/02/2022\nPO number: PO-983488\nPayment terms:Net 45 (Check)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nSpinka, Crona and Corkery\n324 Betsy Flats Suite 893\nWest Shelley, NJ 70155\nTax Id: 923-27-5534\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Solid Oak Wood Credenza Buffet\nPietradura Inlay Scagliola Stone\nDecorate H3096\n10,00 each 82,82 828,20 23% 1 018,69\n2. High-Density Foam Bookshelf Unit\nLimited Edition Art Deco Collection\n6,00 days 8 659,42 51 956,52 23% 63 906,52\n3. Custom Engraved Gold Armchair\nMosaic Gemstone Patio Art Black\nFriday Gift\n4,00 hrs 160,04 640,16 23% 787,40\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n23% 53 424,88 12 287,73 65 712,61\nTotal Rs 53 424,88 Rs 12 287,73 Rs 65 712,61\nNotes:\nPayment is due within the specified terms. Late fees may apply."
+        }
+    ]
+}

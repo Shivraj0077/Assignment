@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000082.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000082\nDate of issue:11/10/2023\nDue date: 10/11/2023\nPO number: PO-162832\nPayment terms:Net 30 (Bank Transfer)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nSchuster, Bosco and Rodriguez\n1989 W Walnut Street Apt. 964\nPort Hildastead, NC 57663-1407\nTax Id: 818-17-4104\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Tempered Glass Armchair Vintage Mid-\nCentury Modern Design\n5,00 pcs 31,56 157,80 15% 181,47\n2. Brushed Steel Bookshelf Unit Limited\nEdition Art Deco Collection\n9,00 days 85,23 767,07 15% 882,13\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n15% 924,87 138,73 1 063,60\nTotal Rs 924,87 Rs 138,73 Rs 1 063,60\nNotes:\nGoods sold are not returnable. Service warranty applies as per standard terms."
+        }
+    ]
+}

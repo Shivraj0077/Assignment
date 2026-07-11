@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000069.pdf",
+    "invoice_number": "30000069",
+    "invoice_date": "30/04/2021",
+    "due_date": "29/06/2021",
+    "po_number": "PO-337066",
+    "payment_terms": "Net 60 (Credit Card)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Koch and Sons\n3734 Waelchi Fords Apt. 186\nNorth Michele, ND 07722-3968\nTax Id: 718-77-6990",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "4'x2' Marble Black Sideboard Cabinet Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "7,00",
+            "unit": "days",
+            "net_price": "659,42 4",
+            "net_worth": "615,94",
+            "vat": "5%",
+            "gross_worth": "4 846,74"
+        },
+        {
+            "item_no": 2,
+            "description": "Custom Engraved Gold Accent Mirror Minimalist Nordic Style for Home Office",
+            "quantity": "8,00",
+            "unit": "pcs",
+            "net_price": "790,22 6",
+            "net_worth": "321,76",
+            "vat": "5%",
+            "gross_worth": "6 637,85"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n5% 10 937,70 546,89 11 484,59\nTotal Rs 10 937,70 Rs 546,89 Rs 11 484,59"
+}

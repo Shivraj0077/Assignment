@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000072.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000072\nDate of issue:15/02/2023\nDue date: 16/04/2023\nPO number: PO-470905\nPayment terms:Net 60 (Check)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nZemlak, Adams and Champlin\n7698 Renner Roads Apt. 975\nOttisshire, MT 56233\nTax Id: 183-90-7086\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Solid Oak Wood Lounge Chair Vintage\nMid-Century Modern Design\n4,00 box 2 127,79 8 511,16 5% 8 936,72\n2. Ergonomic Mesh Bookshelf Unit Vintage\nMid-Century Modern Design\n6,00 hrs 376,98 2 261,88 5% 2 374,97\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n5% 10 773,04 538,65 11 311,69\nTotal Rs 10 773,04 Rs 538,65 Rs 11 311,69\nNotes:\nGoods sold are not returnable. Service warranty applies as per standard terms."
+        }
+    ]
+}

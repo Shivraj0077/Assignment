@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000023.pdf",
+    "invoice_number": "30000023",
+    "invoice_date": "11/03/2023",
+    "due_date": "10/04/2023",
+    "po_number": "PO-795268",
+    "payment_terms": "Net 30 (Bank Transfer)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Mertz, Padberg and McCullough\n471 Kassulke Trail Apt. 332\nFort Lily, CA 17688-0072\nTax Id: 216-79-2173",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Handcrafted Ceramic Dining Table Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "11,00",
+            "unit": "hrs",
+            "net_price": "19,95 219,45",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "241,40"
+        },
+        {
+            "item_no": 2,
+            "description": "Handcrafted Ceramic Pendant Light Fixture Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "11,00",
+            "unit": "kg",
+            "net_price": "85,29 938,19",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "1 032,01"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n10% 1 157,64 115,77 1 273,41\nTotal Rs 1 157,64 Rs 115,77 Rs 1 273,41"
+}

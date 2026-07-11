@@ -1,0 +1,63 @@
+{
+    "filename": "invoice_30000003.pdf",
+    "invoice_number": "30000003",
+    "invoice_date": "17/01/2021",
+    "due_date": "16/02/2021",
+    "po_number": "PO-269798",
+    "payment_terms": "Net 30 (Bank Transfer)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Senger Group\n3626 E Central Avenue Suite 458\nLeuschkehaven, NC 67224\nTax Id: 379-15-6155",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Brushed Steel Accent Mirror Vintage Mid-Century Modern Design",
+            "quantity": "8,00",
+            "unit": "box",
+            "net_price": "994,33 7",
+            "net_worth": "954,64",
+            "vat": "10%",
+            "gross_worth": "8 750,10"
+        },
+        {
+            "item_no": 2,
+            "description": "Tempered Glass Lounge Chair Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "2,00",
+            "unit": "box",
+            "net_price": "67,19 134,38",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "147,82"
+        },
+        {
+            "item_no": 3,
+            "description": "Premium Leather Credenza Buffet Minimalist Nordic Style for Home Office",
+            "quantity": "4,00",
+            "unit": "each",
+            "net_price": "44,04 176,16",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "193,78"
+        },
+        {
+            "item_no": 4,
+            "description": "Handcrafted Ceramic Center Top Table Minimalist Nordic Style for Home Office",
+            "quantity": "1,00",
+            "unit": "each",
+            "net_price": "886,36 886,36",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "975,00"
+        },
+        {
+            "item_no": 5,
+            "description": "Premium Leather Accent Mirror Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "7,00",
+            "unit": "box",
+            "net_price": "909,10 6",
+            "net_worth": "363,70",
+            "vat": "10%",
+            "gross_worth": "7 000,07"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n10% 15 515,24 1 551,53 17 066,77\nTotal Rs 15 515,24 Rs 1 551,53 Rs 17 066,77"
+}

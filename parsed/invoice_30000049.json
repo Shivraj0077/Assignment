@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000049.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000049\nDate of issue:25/05/2021\nDue date: 09/06/2021\nPO number: PO-547657\nPayment terms:Net 15 (ACH)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nPredovic - Johns\n39594 McKenzie Union Suite 232\nWest Ryanside, KY 70163\nTax Id: 126-23-3788\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Rustic Reclaimed Wood Office Desk\nHeavy Duty Industrial Framework with\nLeveling Feet\n7,00 hrs 964,21 6 749,47 10% 7 424,42\n2. Solid Oak Wood Conference Table\nAcoustic Sound-Dampening Modular\nPanels\n12,00 box 3 222,51 38 670,12 10% 42 537,13\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n10% 45 419,59 4 541,96 49 961,55\nTotal Rs 45 419,59 Rs 4 541,96 Rs 49 961,55\nNotes:\nPlease include the invoice number on your check or wire transfer reference."
+        }
+    ]
+}

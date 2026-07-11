@@ -1,0 +1,93 @@
+{
+    "filename": "invoice_30000013.pdf",
+    "invoice_number": "30000013",
+    "invoice_date": "23/05/2024",
+    "due_date": "07/07/2024",
+    "po_number": "PO-307829",
+    "payment_terms": "Net 45 (Credit Card)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Douglas-Heaney and Sons\n4301 Joel Turnpike Apt. 600\nBridgetfield, WY 01169\nTax Id: 473-69-6028",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "High-Density Foam Dining Table Acoustic Sound-Dampening Modular Panels",
+            "quantity": "6,00",
+            "unit": "box",
+            "net_price": "654,11 3",
+            "net_worth": "924,66",
+            "vat": "10%",
+            "gross_worth": "4 317,13"
+        },
+        {
+            "item_no": 2,
+            "description": "4'x2' Marble Black Office Desk Limited Edition Art Deco Collection",
+            "quantity": "10,00",
+            "unit": "box",
+            "net_price": "557,65 5",
+            "net_worth": "576,50",
+            "vat": "10%",
+            "gross_worth": "6 134,15"
+        },
+        {
+            "item_no": 3,
+            "description": "Brushed Steel Credenza Buffet Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "5,00",
+            "unit": "pcs",
+            "net_price": "4 959,86",
+            "net_worth": "24 799,30",
+            "vat": "10%",
+            "gross_worth": "27 279,23"
+        },
+        {
+            "item_no": 4,
+            "description": "Ergonomic Mesh Decorative Vase Limited Edition Art Deco Collection",
+            "quantity": "6,00",
+            "unit": "days",
+            "net_price": "26,76 160,56",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "176,62"
+        },
+        {
+            "item_no": 5,
+            "description": "Custom Engraved Gold Lounge Chair Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "9,00",
+            "unit": "hrs",
+            "net_price": "55,44 498,96",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "548,86"
+        },
+        {
+            "item_no": 6,
+            "description": "Ergonomic Mesh Sideboard Cabinet Acoustic Sound-Dampening Modular Panels",
+            "quantity": "1,00",
+            "unit": "days",
+            "net_price": "53,14 53,14",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "58,45"
+        },
+        {
+            "item_no": 7,
+            "description": "Solid Oak Wood Bookshelf Unit Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "6,00",
+            "unit": "kg",
+            "net_price": "4 572,40",
+            "net_worth": "27 434,40",
+            "vat": "10%",
+            "gross_worth": "30 177,84"
+        },
+        {
+            "item_no": 8,
+            "description": "4'x2' Marble Black Lounge Chair Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "5,00",
+            "unit": "pcs",
+            "net_price": "678,57 3",
+            "net_worth": "392,85",
+            "vat": "10%",
+            "gross_worth": "3 732,14"
+        }
+    ],
+    "summary": ""
+}

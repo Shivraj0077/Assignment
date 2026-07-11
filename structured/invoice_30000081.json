@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000081.pdf",
+    "invoice_number": "30000081",
+    "invoice_date": "10/09/2020",
+    "due_date": "09/11/2020",
+    "po_number": "PO-277681",
+    "payment_terms": "Net 60 (Credit Card)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Franecki, Lindgren and Christiansen\n765 Broadway Avenue Suite 705\nSanta Clarita, MT 61914-9391\nTax Id: 655-67-8130",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "High-Density Foam Conference Table Minimalist Nordic Style for Home Office",
+            "quantity": "4,00",
+            "unit": "kg",
+            "net_price": "98,48 393,92",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "433,31"
+        },
+        {
+            "item_no": 2,
+            "description": "Brushed Steel Conference Table Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "4,00",
+            "unit": "days",
+            "net_price": "4 206,30",
+            "net_worth": "16 825,20",
+            "vat": "10%",
+            "gross_worth": "18 507,72"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n10% 17 219,12 1 721,91 18 941,03\nTotal Rs 17 219,12 Rs 1 721,91 Rs 18 941,03"
+}

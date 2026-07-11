@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000084.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000084\nDate of issue:03/10/2025\nDue date: 18/10/2025\nPO number: PO-411295\nPayment terms:Net 15 (Credit Card)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nHodkiewicz, Stracke-Hyatt and Rosenbaum\n21138 Blick Field Apt. 497\nMarysville, WA 79367-1752\nTax Id: 706-29-1476\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Brushed Steel Office Desk Acoustic\nSound-Dampening Modular Panels\n9,00 hrs 15,55 139,95 5% 146,95\n2. Custom Engraved Gold Pendant Light\nFixture Heavy Duty Industrial\nFramework with Leveling Feet\n3,00 hrs 17,03 51,09 5% 53,64\n3. Ergonomic Mesh Dining Table\nWeatherproof Powder Coat Finish for\nOutdoor Use\n5,00 each 817,63 4 088,15 5% 4 292,56\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n5% 4 279,19 213,96 4 493,15\nTotal Rs 4 279,19 Rs 213,96 Rs 4 493,15\nNotes:\nAll amounts are in the specified currency. For queries, contact billing@jacobsrussell.com"
+        }
+    ]
+}

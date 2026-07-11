@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000035.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000035\nDate of issue:15/10/2020\nDue date: 14/11/2020\nPO number: PO-283298\nPayment terms:Net 30 (Bank Transfer)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nCollier and Sons\n9338 Reinger Unions Suite 416\nMurazikport, NM 91887-0084\nTax Id: 639-97-6033\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Custom Engraved Gold Center Top\nTable Mosaic Gemstone Patio Art Black\nFriday Gift\n12,00 each 67,45 809,40 15% 930,81\n2. High-Density Foam Conference Table\nMinimalist Nordic Style for Home Office\n2,00 box 499,57 999,14 15% 1 149,01\n3. Brushed Steel Lounge Chair Heavy\nDuty Industrial Framework with Leveling\nFeet\n12,00 box 360,91 4 330,92 15% 4 980,56\n4. Handcrafted Ceramic Conference Table\nPietradura Inlay Scagliola Stone\nDecorate H3096\n11,00 kg 757,66 8 334,26 15% 9 584,40\n5. Handcrafted Ceramic Center Top Table\nHeavy Duty Industrial Framework with\nLeveling Feet\n7,00 hrs 5 782,49 40 477,43 15% 46 549,04\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n15% 54 951,15 8 242,67 63 193,82\nTotal Rs 54 951,15 Rs 8 242,67 Rs 63 193,82\nNotes:\nPayment is due within the specified terms. Late fees may apply."
+        }
+    ]
+}

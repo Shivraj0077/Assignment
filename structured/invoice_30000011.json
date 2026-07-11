@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000011.pdf",
+    "invoice_number": "30000011",
+    "invoice_date": "06/01/2026",
+    "due_date": "05/02/2026",
+    "po_number": "PO-877538",
+    "payment_terms": "Net 30 (Bank Transfer)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Cremin LLC\n4658 Lubowitz Circles Apt. 240\nEbertstead, AR 81458\nTax Id: 397-74-5578",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Polished Brass Accent Mirror Limited Edition Art Deco Collection",
+            "quantity": "11,00",
+            "unit": "box",
+            "net_price": "78,24 860,64",
+            "net_worth": "",
+            "vat": "15%",
+            "gross_worth": "989,74"
+        },
+        {
+            "item_no": 2,
+            "description": "Solid Oak Wood Lounge Chair Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "4,00",
+            "unit": "kg",
+            "net_price": "9 411,38",
+            "net_worth": "37 645,52",
+            "vat": "15%",
+            "gross_worth": "43 292,35"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n15% 38 506,16 5 775,93 44 282,09\nTotal Rs 38 506,16 Rs 5 775,93 Rs 44 282,09"
+}

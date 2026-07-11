@@ -1,0 +1,113 @@
+{
+    "filename": "invoice_30000059.pdf",
+    "invoice_number": "30000059",
+    "invoice_date": "14/08/2020",
+    "due_date": "13/09/2020",
+    "po_number": "PO-465417",
+    "payment_terms": "Net 30 (Check)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Hirthe and Sons\n2685 Blick Harbor Apt. 969\nLukasberg, IN 32166\nTax Id: 868-57-7051",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Handcrafted Ceramic Sideboard Cabinet Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "9,00",
+            "unit": "hrs",
+            "net_price": "2 598,82",
+            "net_worth": "23 389,38",
+            "vat": "23%",
+            "gross_worth": "28 768,94"
+        },
+        {
+            "item_no": 2,
+            "description": "Brushed Steel Office Desk Acoustic Sound-Dampening Modular Panels",
+            "quantity": "9,00",
+            "unit": "box",
+            "net_price": "5 405,24",
+            "net_worth": "48 647,16",
+            "vat": "23%",
+            "gross_worth": "59 836,01"
+        },
+        {
+            "item_no": 3,
+            "description": "Handcrafted Ceramic Decorative Vase Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "2,00",
+            "unit": "box",
+            "net_price": "53,63 107,26",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "131,93"
+        },
+        {
+            "item_no": 4,
+            "description": "Ergonomic Mesh Armchair Limited Edition Art Deco Collection",
+            "quantity": "10,00",
+            "unit": "each",
+            "net_price": "42,46 424,60",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "522,26"
+        },
+        {
+            "item_no": 5,
+            "description": "Custom Engraved Gold Accent Mirror Limited Edition Art Deco Collection",
+            "quantity": "6,00",
+            "unit": "kg",
+            "net_price": "647,86 3",
+            "net_worth": "887,16",
+            "vat": "23%",
+            "gross_worth": "4 781,21"
+        },
+        {
+            "item_no": 6,
+            "description": "Solid Oak Wood Lounge Chair Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "12,00",
+            "unit": "days",
+            "net_price": "640,79 7",
+            "net_worth": "689,48",
+            "vat": "23%",
+            "gross_worth": "9 458,06"
+        },
+        {
+            "item_no": 7,
+            "description": "Solid Oak Wood Pendant Light Fixture Minimalist Nordic Style for Home Office",
+            "quantity": "4,00",
+            "unit": "kg",
+            "net_price": "968,89 3",
+            "net_worth": "875,56",
+            "vat": "23%",
+            "gross_worth": "4 766,94"
+        },
+        {
+            "item_no": 8,
+            "description": "Handcrafted Ceramic Accent Mirror Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "3,00",
+            "unit": "box",
+            "net_price": "44,30 132,90",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "163,47"
+        },
+        {
+            "item_no": 9,
+            "description": "High-Density Foam Sideboard Cabinet Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "11,00",
+            "unit": "pcs",
+            "net_price": "1 239,15",
+            "net_worth": "13 630,65",
+            "vat": "23%",
+            "gross_worth": "16 765,70"
+        },
+        {
+            "item_no": 10,
+            "description": "Rustic Reclaimed Wood Armchair Limited Edition Art Deco Collection",
+            "quantity": "7,00",
+            "unit": "each",
+            "net_price": "3 014,35",
+            "net_worth": "21 100,45",
+            "vat": "23%",
+            "gross_worth": "25 953,55"
+        }
+    ],
+    "summary": ""
+}

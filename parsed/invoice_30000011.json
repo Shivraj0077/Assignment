@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000011.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000011\nDate of issue:06/01/2026\nDue date: 05/02/2026\nPO number: PO-877538\nPayment terms:Net 30 (Bank Transfer)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nCremin LLC\n4658 Lubowitz Circles Apt. 240\nEbertstead, AR 81458\nTax Id: 397-74-5578\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Polished Brass Accent Mirror Limited\nEdition Art Deco Collection\n11,00 box 78,24 860,64 15% 989,74\n2. Solid Oak Wood Lounge Chair Mosaic\nGemstone Patio Art Black Friday Gift\n4,00 kg 9 411,38 37 645,52 15% 43 292,35\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n15% 38 506,16 5 775,93 44 282,09\nTotal Rs 38 506,16 Rs 5 775,93 Rs 44 282,09\nNotes:\nThank you for your business. Please remit payment at your earliest convenience."
+        }
+    ]
+}

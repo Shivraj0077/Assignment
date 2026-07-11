@@ -1,0 +1,63 @@
+{
+    "filename": "invoice_30000019.pdf",
+    "invoice_number": "30000019",
+    "invoice_date": "14/01/2023",
+    "due_date": "15/03/2023",
+    "po_number": "PO-356682",
+    "payment_terms": "Net 60 (ACH)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Powlowski Group\n623 Della Lodge Suite 455\nNew Dianna, NV 50491\nTax Id: 730-66-9682",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Premium Leather Credenza Buffet Acoustic Sound-Dampening Modular Panels",
+            "quantity": "9,00",
+            "unit": "box",
+            "net_price": "5 095,60",
+            "net_worth": "45 860,40",
+            "vat": "10%",
+            "gross_worth": "50 446,44"
+        },
+        {
+            "item_no": 2,
+            "description": "Rustic Reclaimed Wood Sideboard Cabinet Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "2,00",
+            "unit": "pcs",
+            "net_price": "443,43 886,86",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "975,55"
+        },
+        {
+            "item_no": 3,
+            "description": "Handcrafted Ceramic Armchair Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "2,00",
+            "unit": "hrs",
+            "net_price": "203,56 407,12",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "447,83"
+        },
+        {
+            "item_no": 4,
+            "description": "Brushed Steel Pendant Light Fixture Minimalist Nordic Style for Home Office",
+            "quantity": "1,00",
+            "unit": "hrs",
+            "net_price": "621,89 621,89",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "684,08"
+        },
+        {
+            "item_no": 5,
+            "description": "Tempered Glass Sideboard Cabinet Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "9,00",
+            "unit": "kg",
+            "net_price": "501,73 4",
+            "net_worth": "515,57",
+            "vat": "10%",
+            "gross_worth": "4 967,13"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n10% 52 291,84 5 229,19 57 521,03\nTotal Rs 52 291,84 Rs 5 229,19 Rs 57 521,03"
+}

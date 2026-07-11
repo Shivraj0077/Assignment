@@ -1,0 +1,43 @@
+{
+    "filename": "invoice_30000053.pdf",
+    "invoice_number": "30000053",
+    "invoice_date": "29/07/2020",
+    "due_date": "28/08/2020",
+    "po_number": "PO-893970",
+    "payment_terms": "Net 30 (ACH)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Batz - Sawayn\n13993 East Street Apt. 766\nEast Maverick, RI 14478\nTax Id: 376-41-2152",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Ergonomic Mesh Conference Table Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "11,00",
+            "unit": "each",
+            "net_price": "974,95 10",
+            "net_worth": "724,45",
+            "vat": "23%",
+            "gross_worth": "13 191,07"
+        },
+        {
+            "item_no": 2,
+            "description": "Premium Leather Sideboard Cabinet Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "4,00",
+            "unit": "hrs",
+            "net_price": "2 427,22",
+            "net_worth": "9 708,88",
+            "vat": "23%",
+            "gross_worth": "11 941,92"
+        },
+        {
+            "item_no": 3,
+            "description": "Handcrafted Ceramic Pendant Light Fixture Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "12,00",
+            "unit": "pcs",
+            "net_price": "110,54 1",
+            "net_worth": "326,48",
+            "vat": "23%",
+            "gross_worth": "1 631,57"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n23% 21 759,81 5 004,75 26 764,56\nTotal Rs 21 759,81 Rs 5 004,75 Rs 26 764,56"
+}

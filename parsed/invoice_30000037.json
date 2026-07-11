@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000037.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000037\nDate of issue:20/04/2020\nDue date: 05/05/2020\nPO number: PO-558269\nPayment terms:Net 15 (Bank Transfer)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nLuettgen - Renner\n30859 Wyman Centers Apt. 642\nFort Gerardstead, AK 79874\nTax Id: 717-66-8286\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Brushed Steel Conference Table Limited\nEdition Art Deco Collection\n3,00 box 108,51 325,53 20% 390,64\n2. Rustic Reclaimed Wood Armchair\nMosaic Gemstone Patio Art Black Friday\nGift\n8,00 box 84,81 678,48 20% 814,18\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n20% 1 004,01 200,81 1 204,82\nTotal Rs 1 004,01 Rs 200,81 Rs 1 204,82\nNotes:\nAll amounts are in the specified currency. For queries, contact billing@jacobsrussell.com"
+        }
+    ]
+}

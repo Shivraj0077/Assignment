@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000074.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000074\nDate of issue:23/03/2023\nDue date: 07/05/2023\nPO number: PO-438520\nPayment terms:Net 45 (ACH)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nJohns LLC\n186 Forest Road Apt. 226\nBergeport, WV 21978\nTax Id: 747-53-3630\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Tempered Glass Office Desk\nWeatherproof Powder Coat Finish for\nOutdoor Use\n8,00 days 42,88 343,04 23% 421,94\n2. Premium Leather Credenza Buffet\nPietradura Inlay Scagliola Stone\nDecorate H3096\n5,00 days 241,72 1 208,60 23% 1 486,58\n3. Solid Oak Wood Conference Table\nMinimalist Nordic Style for Home Office\n9,00 each 873,47 7 861,23 23% 9 669,31\n4. Brushed Steel Office Desk Limited\nEdition Art Deco Collection\n7,00 hrs 392,19 2 745,33 23% 3 376,76\n5. Polished Brass Pendant Light Fixture\nMinimalist Nordic Style for Home Office\n1,00 hrs 91,22 91,22 23% 112,20\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n23% 12 249,42 2 817,37 15 066,79\nTotal Rs 12 249,42 Rs 2 817,37 Rs 15 066,79\nNotes:\nStandard delivery included. Tax calculated based on shipping destination."
+        }
+    ]
+}

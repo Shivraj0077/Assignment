@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000052.pdf",
+    "invoice_number": "30000052",
+    "invoice_date": "17/11/2022",
+    "due_date": "17/12/2022",
+    "po_number": "PO-998361",
+    "payment_terms": "Net 30 (Check)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Dickinson - Abshire\n27416 Cummings Turnpike Apt. 896\nPort Amirborough, SD 28977\nTax Id: 791-99-3883",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "6'x3' Black Marble Credenza Buffet Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "9,00",
+            "unit": "kg",
+            "net_price": "749,32 6",
+            "net_worth": "743,88",
+            "vat": "15%",
+            "gross_worth": "7 755,46"
+        },
+        {
+            "item_no": 2,
+            "description": "Tempered Glass Sideboard Cabinet Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "3,00",
+            "unit": "pcs",
+            "net_price": "71,80 215,40",
+            "net_worth": "",
+            "vat": "15%",
+            "gross_worth": "247,71"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n15% 6 959,28 1 043,89 8 003,17\nTotal Rs 6 959,28 Rs 1 043,89 Rs 8 003,17"
+}

@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000061.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000061\nDate of issue:10/08/2021\nDue date: 24/09/2021\nPO number: PO-175290\nPayment terms:Net 45 (Bank Transfer)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nCormier - Breitenberg\n500 Windsor Drive Apt. 418\nTomborough, HI 04285-2832\nTax Id: 182-49-7070\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Ergonomic Mesh Office Desk Limited\nEdition Art Deco Collection\n8,00 hrs 8 172,33 65 378,64 20% 78 454,37\n2. Solid Oak Wood Sideboard Cabinet\nPietradura Inlay Scagliola Stone\nDecorate H3096\n1,00 days 919,95 919,95 20% 1 103,94\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n20% 66 298,59 13 259,72 79 558,31\nTotal Rs 66 298,59 Rs 13 259,72 Rs 79 558,31\nNotes:\nPayment is due within the specified terms. Late fees may apply."
+        }
+    ]
+}

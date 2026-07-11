@@ -1,0 +1,93 @@
+{
+    "filename": "invoice_30000036.pdf",
+    "invoice_number": "30000036",
+    "invoice_date": "17/05/2025",
+    "due_date": "16/07/2025",
+    "po_number": "PO-303583",
+    "payment_terms": "Net 60 (Bank Transfer)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Botsford LLC\n363 E Main Street Suite 684\nNorth Bradley, WY 73621-5197\nTax Id: 247-48-3582",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Ergonomic Mesh Credenza Buffet Limited Edition Art Deco Collection",
+            "quantity": "12,00",
+            "unit": "pcs",
+            "net_price": "25,16 301,92",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "362,30"
+        },
+        {
+            "item_no": 2,
+            "description": "Handcrafted Ceramic Office Desk Acoustic Sound-Dampening Modular Panels",
+            "quantity": "7,00",
+            "unit": "box",
+            "net_price": "180,00 1",
+            "net_worth": "260,00",
+            "vat": "20%",
+            "gross_worth": "1 512,00"
+        },
+        {
+            "item_no": 3,
+            "description": "Premium Leather Pendant Light Fixture Limited Edition Art Deco Collection",
+            "quantity": "5,00",
+            "unit": "hrs",
+            "net_price": "406,29 2",
+            "net_worth": "031,45",
+            "vat": "20%",
+            "gross_worth": "2 437,74"
+        },
+        {
+            "item_no": 4,
+            "description": "6'x3' Black Marble Center Top Table Vintage Mid-Century Modern Design",
+            "quantity": "6,00",
+            "unit": "hrs",
+            "net_price": "2 543,74",
+            "net_worth": "15 262,44",
+            "vat": "20%",
+            "gross_worth": "18 314,93"
+        },
+        {
+            "item_no": 5,
+            "description": "Solid Oak Wood Credenza Buffet Limited Edition Art Deco Collection",
+            "quantity": "11,00",
+            "unit": "hrs",
+            "net_price": "841,13 9",
+            "net_worth": "252,43",
+            "vat": "20%",
+            "gross_worth": "11 102,92"
+        },
+        {
+            "item_no": 6,
+            "description": "Custom Engraved Gold Sideboard Cabinet Vintage Mid-Century Modern Design",
+            "quantity": "1,00",
+            "unit": "hrs",
+            "net_price": "454,66 454,66",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "545,59"
+        },
+        {
+            "item_no": 7,
+            "description": "Premium Leather Center Top Table Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "12,00",
+            "unit": "pcs",
+            "net_price": "5 968,54",
+            "net_worth": "71 622,48",
+            "vat": "20%",
+            "gross_worth": "85 946,98"
+        },
+        {
+            "item_no": 8,
+            "description": "Solid Oak Wood Credenza Buffet Acoustic Sound-Dampening Modular Panels",
+            "quantity": "1,00",
+            "unit": "each",
+            "net_price": "400,66 400,66",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "480,79"
+        }
+    ],
+    "summary": ""
+}

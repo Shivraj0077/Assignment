@@ -1,0 +1,63 @@
+{
+    "filename": "invoice_30000025.pdf",
+    "invoice_number": "30000025",
+    "invoice_date": "22/03/2023",
+    "due_date": "06/05/2023",
+    "po_number": "PO-810569",
+    "payment_terms": "Net 45 (ACH)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Barton - Kub\n97230 Jessy Orchard Suite 549\nPort Henri, NY 05526\nTax Id: 160-47-9971",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Tempered Glass Decorative Vase Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "9,00",
+            "unit": "days",
+            "net_price": "87,15 784,35",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "964,75"
+        },
+        {
+            "item_no": 2,
+            "description": "Polished Brass Sideboard Cabinet Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "1,00",
+            "unit": "hrs",
+            "net_price": "831,44 831,44",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "1 022,67"
+        },
+        {
+            "item_no": 3,
+            "description": "Rustic Reclaimed Wood Accent Mirror Vintage Mid-Century Modern Design",
+            "quantity": "11,00",
+            "unit": "days",
+            "net_price": "8 152,05",
+            "net_worth": "89 672,55",
+            "vat": "23%",
+            "gross_worth": "110 297,24"
+        },
+        {
+            "item_no": 4,
+            "description": "Brushed Steel Lounge Chair Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "8,00",
+            "unit": "each",
+            "net_price": "970,08 7",
+            "net_worth": "760,64",
+            "vat": "23%",
+            "gross_worth": "9 545,59"
+        },
+        {
+            "item_no": 5,
+            "description": "Polished Brass Conference Table Vintage Mid-Century Modern Design",
+            "quantity": "9,00",
+            "unit": "kg",
+            "net_price": "6 544,62",
+            "net_worth": "58 901,58",
+            "vat": "23%",
+            "gross_worth": "72 448,94"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n23% 157 950,56 36 328,63 194 279,19\nTotal Rs 157 950,56 Rs 36 328,63 Rs 194 279,19"
+}

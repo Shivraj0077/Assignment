@@ -1,0 +1,12 @@
+{
+    "filename": "invoice_30000002.pdf",
+    "invoice_number": "30000002",
+    "invoice_date": "13/02/2022",
+    "due_date": "15/03/2022",
+    "po_number": "PO-692656",
+    "payment_terms": "Net 30 (Bank Transfer)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Daugherty, Crist and Hartmann\n74758 Charlie Stravenue Suite 103\nLorain, MD 91398\nTax Id: 385-10-3232",
+    "items": [],
+    "summary": ""
+}

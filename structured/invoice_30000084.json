@@ -1,0 +1,43 @@
+{
+    "filename": "invoice_30000084.pdf",
+    "invoice_number": "30000084",
+    "invoice_date": "03/10/2025",
+    "due_date": "18/10/2025",
+    "po_number": "PO-411295",
+    "payment_terms": "Net 15 (Credit Card)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Hodkiewicz, Stracke-Hyatt and Rosenbaum\n21138 Blick Field Apt. 497\nMarysville, WA 79367-1752\nTax Id: 706-29-1476",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Brushed Steel Office Desk Acoustic Sound-Dampening Modular Panels",
+            "quantity": "9,00",
+            "unit": "hrs",
+            "net_price": "15,55 139,95",
+            "net_worth": "",
+            "vat": "5%",
+            "gross_worth": "146,95"
+        },
+        {
+            "item_no": 2,
+            "description": "Custom Engraved Gold Pendant Light Fixture Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "3,00",
+            "unit": "hrs",
+            "net_price": "17,03 51,09",
+            "net_worth": "",
+            "vat": "5%",
+            "gross_worth": "53,64"
+        },
+        {
+            "item_no": 3,
+            "description": "Ergonomic Mesh Dining Table Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "5,00",
+            "unit": "each",
+            "net_price": "817,63 4",
+            "net_worth": "088,15",
+            "vat": "5%",
+            "gross_worth": "4 292,56"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n5% 4 279,19 213,96 4 493,15\nTotal Rs 4 279,19 Rs 213,96 Rs 4 493,15"
+}

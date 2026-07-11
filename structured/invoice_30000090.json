@@ -1,0 +1,43 @@
+{
+    "filename": "invoice_30000090.pdf",
+    "invoice_number": "30000090",
+    "invoice_date": "09/03/2020",
+    "due_date": "08/05/2020",
+    "po_number": "PO-478588",
+    "payment_terms": "Net 60 (Bank Transfer)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "O'Hara, Homenick and Medhurst\n5262 Goodwin Pine Apt. 251\nColumbia, MA 09675-8182\nTax Id: 139-24-1235",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Premium Leather Credenza Buffet Limited Edition Art Deco Collection",
+            "quantity": "11,00",
+            "unit": "days",
+            "net_price": "433,80 4",
+            "net_worth": "771,80",
+            "vat": "23%",
+            "gross_worth": "5 869,31"
+        },
+        {
+            "item_no": 2,
+            "description": "4'x2' Marble Black Sideboard Cabinet Vintage Mid-Century Modern Design",
+            "quantity": "4,00",
+            "unit": "box",
+            "net_price": "172,63 690,52",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "849,34"
+        },
+        {
+            "item_no": 3,
+            "description": "Brushed Steel Bookshelf Unit Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "12,00",
+            "unit": "each",
+            "net_price": "399,76 4",
+            "net_worth": "797,12",
+            "vat": "23%",
+            "gross_worth": "5 900,46"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n23% 10 259,44 2 359,67 12 619,11\nTotal Rs 10 259,44 Rs 2 359,67 Rs 12 619,11"
+}

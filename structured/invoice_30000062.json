@@ -1,0 +1,43 @@
+{
+    "filename": "invoice_30000062.pdf",
+    "invoice_number": "30000062",
+    "invoice_date": "21/02/2022",
+    "due_date": "08/03/2022",
+    "po_number": "PO-757738",
+    "payment_terms": "Net 15 (ACH)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Weimann LLC\n159 Park Lane Suite 247\nBradenton, WY 28310\nTax Id: 872-87-8560",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Brushed Steel Office Desk Limited Edition Art Deco Collection",
+            "quantity": "9,00",
+            "unit": "days",
+            "net_price": "9 397,93",
+            "net_worth": "84 581,37",
+            "vat": "20%",
+            "gross_worth": "101 497,64"
+        },
+        {
+            "item_no": 2,
+            "description": "Solid Oak Wood Decorative Vase Vintage Mid-Century Modern Design",
+            "quantity": "7,00",
+            "unit": "pcs",
+            "net_price": "691,59 4",
+            "net_worth": "841,13",
+            "vat": "20%",
+            "gross_worth": "5 809,36"
+        },
+        {
+            "item_no": 3,
+            "description": "Solid Oak Wood Armchair Acoustic Sound-Dampening Modular Panels",
+            "quantity": "10,00",
+            "unit": "pcs",
+            "net_price": "4 666,26",
+            "net_worth": "46 662,60",
+            "vat": "20%",
+            "gross_worth": "55 995,12"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n20% 136 085,10 27 217,02 163 302,12\nTotal Rs 136 085,10 Rs 27 217,02 Rs 163 302,12"
+}

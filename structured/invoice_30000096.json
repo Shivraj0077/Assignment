@@ -1,0 +1,93 @@
+{
+    "filename": "invoice_30000096.pdf",
+    "invoice_number": "30000096",
+    "invoice_date": "24/10/2024",
+    "due_date": "23/12/2024",
+    "po_number": "PO-681333",
+    "payment_terms": "Net 60 (ACH)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Hickle, Greenholt and Prosacco\n3694 Lindsey Overpass Suite 928\nVandervortside, NE 68146-4605\nTax Id: 459-67-8207",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "High-Density Foam Pendant Light Fixture Vintage Mid-Century Modern Design",
+            "quantity": "6,00",
+            "unit": "each",
+            "net_price": "110,99 665,94",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "799,13"
+        },
+        {
+            "item_no": 2,
+            "description": "Brushed Steel Conference Table Minimalist Nordic Style for Home Office",
+            "quantity": "2,00",
+            "unit": "box",
+            "net_price": "874,00 1",
+            "net_worth": "748,00",
+            "vat": "20%",
+            "gross_worth": "2 097,60"
+        },
+        {
+            "item_no": 3,
+            "description": "4'x2' Marble Black Armchair Limited Edition Art Deco Collection",
+            "quantity": "4,00",
+            "unit": "days",
+            "net_price": "362,94 1",
+            "net_worth": "451,76",
+            "vat": "20%",
+            "gross_worth": "1 742,11"
+        },
+        {
+            "item_no": 4,
+            "description": "Tempered Glass Lounge Chair Acoustic Sound-Dampening Modular Panels",
+            "quantity": "4,00",
+            "unit": "each",
+            "net_price": "873,34 3",
+            "net_worth": "493,36",
+            "vat": "20%",
+            "gross_worth": "4 192,03"
+        },
+        {
+            "item_no": 5,
+            "description": "Brushed Steel Lounge Chair Acoustic Sound-Dampening Modular Panels",
+            "quantity": "10,00",
+            "unit": "days",
+            "net_price": "8 338,10",
+            "net_worth": "83 381,00",
+            "vat": "20%",
+            "gross_worth": "100 057,20"
+        },
+        {
+            "item_no": 6,
+            "description": "Handcrafted Ceramic Center Top Table Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "11,00",
+            "unit": "kg",
+            "net_price": "39,70 436,70",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "524,04"
+        },
+        {
+            "item_no": 7,
+            "description": "6'x3' Black Marble Sideboard Cabinet Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "10,00",
+            "unit": "box",
+            "net_price": "10,85 108,50",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "130,20"
+        },
+        {
+            "item_no": 8,
+            "description": "Polished Brass Conference Table Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "12,00",
+            "unit": "hrs",
+            "net_price": "883,74 10",
+            "net_worth": "604,88",
+            "vat": "20%",
+            "gross_worth": "12 725,86"
+        }
+    ],
+    "summary": ""
+}

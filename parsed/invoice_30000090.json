@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000090.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000090\nDate of issue:09/03/2020\nDue date: 08/05/2020\nPO number: PO-478588\nPayment terms:Net 60 (Bank Transfer)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nO'Hara, Homenick and Medhurst\n5262 Goodwin Pine Apt. 251\nColumbia, MA 09675-8182\nTax Id: 139-24-1235\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Premium Leather Credenza Buffet\nLimited Edition Art Deco Collection\n11,00 days 433,80 4 771,80 23% 5 869,31\n2. 4'x2' Marble Black Sideboard Cabinet\nVintage Mid-Century Modern Design\n4,00 box 172,63 690,52 23% 849,34\n3. Brushed Steel Bookshelf Unit\nPietradura Inlay Scagliola Stone\nDecorate H3096\n12,00 each 399,76 4 797,12 23% 5 900,46\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n23% 10 259,44 2 359,67 12 619,11\nTotal Rs 10 259,44 Rs 2 359,67 Rs 12 619,11\nNotes:\nStandard delivery included. Tax calculated based on shipping destination."
+        }
+    ]
+}

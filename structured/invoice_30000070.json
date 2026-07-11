@@ -1,0 +1,63 @@
+{
+    "filename": "invoice_30000070.pdf",
+    "invoice_number": "30000070",
+    "invoice_date": "18/02/2020",
+    "due_date": "18/04/2020",
+    "po_number": "PO-797650",
+    "payment_terms": "Net 60 (Check)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Jenkins, Lindgren and Moen\n22030 Lindgren Prairie Suite 567\nWest Murrayville, NY 12425-0300\nTax Id: 523-38-4282",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Rustic Reclaimed Wood Office Desk Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "4,00",
+            "unit": "hrs",
+            "net_price": "8 821,17",
+            "net_worth": "35 284,68",
+            "vat": "5%",
+            "gross_worth": "37 048,91"
+        },
+        {
+            "item_no": 2,
+            "description": "High-Density Foam Accent Mirror Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "11,00",
+            "unit": "kg",
+            "net_price": "59,02 649,22",
+            "net_worth": "",
+            "vat": "5%",
+            "gross_worth": "681,68"
+        },
+        {
+            "item_no": 3,
+            "description": "4'x2' Marble Black Pendant Light Fixture Minimalist Nordic Style for Home Office",
+            "quantity": "7,00",
+            "unit": "kg",
+            "net_price": "74,50 521,50",
+            "net_worth": "",
+            "vat": "5%",
+            "gross_worth": "547,58"
+        },
+        {
+            "item_no": 4,
+            "description": "Solid Oak Wood Conference Table Vintage Mid-Century Modern Design",
+            "quantity": "2,00",
+            "unit": "box",
+            "net_price": "7 364,14",
+            "net_worth": "14 728,28",
+            "vat": "5%",
+            "gross_worth": "15 464,69"
+        },
+        {
+            "item_no": 5,
+            "description": "Premium Leather Office Desk Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "2,00",
+            "unit": "each",
+            "net_price": "75,59 151,18",
+            "net_worth": "",
+            "vat": "5%",
+            "gross_worth": "158,74"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n5% 51 334,86 2 566,74 53 901,60\nTotal Rs 51 334,86 Rs 2 566,74 Rs 53 901,60"
+}

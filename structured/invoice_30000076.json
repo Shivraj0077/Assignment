@@ -1,0 +1,93 @@
+{
+    "filename": "invoice_30000076.pdf",
+    "invoice_number": "30000076",
+    "invoice_date": "20/09/2023",
+    "due_date": "20/10/2023",
+    "po_number": "PO-163943",
+    "payment_terms": "Net 30 (ACH)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Kihn Inc\n83866 Harold Mills Apt. 930\nHowellboro, NJ 60534\nTax Id: 853-48-2218",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Tempered Glass Sideboard Cabinet Limited Edition Art Deco Collection",
+            "quantity": "1,00",
+            "unit": "box",
+            "net_price": "63,50 63,50",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "76,20"
+        },
+        {
+            "item_no": 2,
+            "description": "Premium Leather Decorative Vase Acoustic Sound-Dampening Modular Panels",
+            "quantity": "9,00",
+            "unit": "kg",
+            "net_price": "235,29 2",
+            "net_worth": "117,61",
+            "vat": "20%",
+            "gross_worth": "2 541,13"
+        },
+        {
+            "item_no": 3,
+            "description": "6'x3' Black Marble Sideboard Cabinet Minimalist Nordic Style for Home Office",
+            "quantity": "3,00",
+            "unit": "box",
+            "net_price": "937,02 2",
+            "net_worth": "811,06",
+            "vat": "20%",
+            "gross_worth": "3 373,27"
+        },
+        {
+            "item_no": 4,
+            "description": "Solid Oak Wood Decorative Vase Minimalist Nordic Style for Home Office",
+            "quantity": "6,00",
+            "unit": "kg",
+            "net_price": "203,30 1",
+            "net_worth": "219,80",
+            "vat": "20%",
+            "gross_worth": "1 463,76"
+        },
+        {
+            "item_no": 5,
+            "description": "Rustic Reclaimed Wood Armchair Vintage Mid-Century Modern Design",
+            "quantity": "3,00",
+            "unit": "hrs",
+            "net_price": "66,96 200,88",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "241,06"
+        },
+        {
+            "item_no": 6,
+            "description": "Ergonomic Mesh Bookshelf Unit Acoustic Sound-Dampening Modular Panels",
+            "quantity": "1,00",
+            "unit": "box",
+            "net_price": "960,46 960,46",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "1 152,55"
+        },
+        {
+            "item_no": 7,
+            "description": "6'x3' Black Marble Sideboard Cabinet Limited Edition Art Deco Collection",
+            "quantity": "1,00",
+            "unit": "days",
+            "net_price": "12,89 12,89",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "15,47"
+        },
+        {
+            "item_no": 8,
+            "description": "Rustic Reclaimed Wood Center Top Table Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "2,00",
+            "unit": "pcs",
+            "net_price": "616,65 1",
+            "net_worth": "233,30",
+            "vat": "20%",
+            "gross_worth": "1 479,96"
+        }
+    ],
+    "summary": ""
+}

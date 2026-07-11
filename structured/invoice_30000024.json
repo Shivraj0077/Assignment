@@ -1,0 +1,93 @@
+{
+    "filename": "invoice_30000024.pdf",
+    "invoice_number": "30000024",
+    "invoice_date": "10/05/2020",
+    "due_date": "24/06/2020",
+    "po_number": "PO-528649",
+    "payment_terms": "Net 45 (Bank Transfer)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Champlin Inc\n5922 Walnut Close Apt. 891\nNorth Heather, TX 89479\nTax Id: 437-95-3789",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Tempered Glass Office Desk Limited Edition Art Deco Collection",
+            "quantity": "5,00",
+            "unit": "hrs",
+            "net_price": "636,54 3",
+            "net_worth": "182,70",
+            "vat": "23%",
+            "gross_worth": "3 914,72"
+        },
+        {
+            "item_no": 2,
+            "description": "Premium Leather Bookshelf Unit Vintage Mid-Century Modern Design",
+            "quantity": "4,00",
+            "unit": "kg",
+            "net_price": "24,54 98,16",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "120,74"
+        },
+        {
+            "item_no": 3,
+            "description": "Tempered Glass Armchair Vintage Mid- Century Modern Design",
+            "quantity": "7,00",
+            "unit": "hrs",
+            "net_price": "6 452,49",
+            "net_worth": "45 167,43",
+            "vat": "23%",
+            "gross_worth": "55 555,94"
+        },
+        {
+            "item_no": 4,
+            "description": "Tempered Glass Accent Mirror Vintage Mid-Century Modern Design",
+            "quantity": "5,00",
+            "unit": "box",
+            "net_price": "417,16 2",
+            "net_worth": "085,80",
+            "vat": "23%",
+            "gross_worth": "2 565,53"
+        },
+        {
+            "item_no": 5,
+            "description": "Brushed Steel Lounge Chair Mosaic Gemstone Patio Art Black Friday Gift 12,00 days 9 331,00 111 972,00",
+            "quantity": "23%",
+            "unit": "137",
+            "net_price": "725,56",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "137 725,56"
+        },
+        {
+            "item_no": 6,
+            "description": "Premium Leather Accent Mirror Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "8,00",
+            "unit": "days",
+            "net_price": "939,53 7",
+            "net_worth": "516,24",
+            "vat": "23%",
+            "gross_worth": "9 244,98"
+        },
+        {
+            "item_no": 7,
+            "description": "Brushed Steel Conference Table Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "10,00",
+            "unit": "pcs",
+            "net_price": "8 213,17",
+            "net_worth": "82 131,70",
+            "vat": "23%",
+            "gross_worth": "101 021,99"
+        },
+        {
+            "item_no": 8,
+            "description": "Polished Brass Center Top Table Acoustic Sound-Dampening Modular Panels",
+            "quantity": "9,00",
+            "unit": "pcs",
+            "net_price": "41,73 375,57",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "461,95"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n23% 252 529,60 58 081,81 310 611,41\nTotal Rs 252 529,60 Rs 58 081,81 Rs 310 611,41"
+}

@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000052.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000052\nDate of issue:17/11/2022\nDue date: 17/12/2022\nPO number: PO-998361\nPayment terms:Net 30 (Check)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nDickinson - Abshire\n27416 Cummings Turnpike Apt. 896\nPort Amirborough, SD 28977\nTax Id: 791-99-3883\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. 6'x3' Black Marble Credenza Buffet\nPietradura Inlay Scagliola Stone\nDecorate H3096\n9,00 kg 749,32 6 743,88 15% 7 755,46\n2. Tempered Glass Sideboard Cabinet\nMosaic Gemstone Patio Art Black Friday\nGift\n3,00 pcs 71,80 215,40 15% 247,71\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n15% 6 959,28 1 043,89 8 003,17\nTotal Rs 6 959,28 Rs 1 043,89 Rs 8 003,17\nNotes:\nThank you for your business. Please remit payment at your earliest convenience."
+        }
+    ]
+}

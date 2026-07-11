@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000058.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000058\nDate of issue:12/07/2024\nDue date: 11/08/2024\nPO number: PO-822973\nPayment terms:Net 30 (Check)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nRuecker, Lehner and Jenkins\n3458 Kulas Street Apt. 474\nLake Delfina, ID 70714\nTax Id: 464-16-7802\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. 6'x3' Black Marble Dining Table Heavy\nDuty Industrial Framework with Leveling\nFeet\n12,00 pcs 111,98 1 343,76 10% 1 478,14\n2. Ergonomic Mesh Pendant Light Fixture\nLimited Edition Art Deco Collection\n5,00 each 45,29 226,45 10% 249,10\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n10% 1 570,21 157,03 1 727,24\nTotal Rs 1 570,21 Rs 157,03 Rs 1 727,24\nNotes:\nAll amounts are in the specified currency. For queries, contact billing@jacobsrussell.com"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000001.pdf",
+    "invoice_number": "30000001",
+    "invoice_date": "19/10/2021",
+    "due_date": "03/12/2021",
+    "po_number": "PO-631890",
+    "payment_terms": "Net 45 (Check)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Barrows, Runolfsdottir and Funk\n72848 O'Kon Ports Apt. 963\nSouth Deborahfield, RI 67355\nTax Id: 269-16-1347",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Premium Leather Lounge Chair Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "4,00",
+            "unit": "hrs",
+            "net_price": "2 400,41",
+            "net_worth": "9 601,64",
+            "vat": "23%",
+            "gross_worth": "11 810,02"
+        },
+        {
+            "item_no": 2,
+            "description": "Handcrafted Ceramic Dining Table Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "3,00",
+            "unit": "kg",
+            "net_price": "6 163,22",
+            "net_worth": "18 489,66",
+            "vat": "23%",
+            "gross_worth": "22 742,28"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n23% 28 091,30 6 461,00 34 552,30\nTotal Rs 28 091,30 Rs 6 461,00 Rs 34 552,30"
+}

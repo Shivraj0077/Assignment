@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000048.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000048\nDate of issue:27/01/2025\nDue date: 11/02/2025\nPO number: PO-900264\nPayment terms:Net 15 (Check)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nOlson and Sons\n1059 Hagenes Center Apt. 195\nGraceboro, UT 61113\nTax Id: 571-46-2799\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Polished Brass Lounge Chair Limited\nEdition Art Deco Collection\n9,00 kg 90,18 811,62 20% 973,94\n2. Custom Engraved Gold Center Top\nTable Minimalist Nordic Style for Home\nOffice\n5,00 pcs 66,88 334,40 20% 401,28\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n20% 1 146,02 229,20 1 375,22\nTotal Rs 1 146,02 Rs 229,20 Rs 1 375,22\nNotes:\nThank you for your business. Please remit payment at your earliest convenience."
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000083.pdf",
+    "invoice_number": "30000083",
+    "invoice_date": "13/07/2023",
+    "due_date": "12/08/2023",
+    "po_number": "PO-629695",
+    "payment_terms": "Net 30 (ACH)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Braun - Larson\n74726 Hall Street Suite 168\nNorth Jennaton, NC 18730-7142\nTax Id: 985-90-9299",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Handcrafted Ceramic Armchair Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "10,00",
+            "unit": "kg",
+            "net_price": "280,86 2",
+            "net_worth": "808,60",
+            "vat": "10%",
+            "gross_worth": "3 089,46"
+        },
+        {
+            "item_no": 2,
+            "description": "6'x3' Black Marble Pendant Light Fixture Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "10,00",
+            "unit": "each",
+            "net_price": "71,82 718,20",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "790,02"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n10% 3 526,80 352,68 3 879,48\nTotal Rs 3 526,80 Rs 352,68 Rs 3 879,48"
+}

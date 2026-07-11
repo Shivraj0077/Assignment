@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000062.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000062\nDate of issue:21/02/2022\nDue date: 08/03/2022\nPO number: PO-757738\nPayment terms:Net 15 (ACH)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nWeimann LLC\n159 Park Lane Suite 247\nBradenton, WY 28310\nTax Id: 872-87-8560\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Brushed Steel Office Desk Limited\nEdition Art Deco Collection\n9,00 days 9 397,93 84 581,37 20% 101 497,64\n2. Solid Oak Wood Decorative Vase\nVintage Mid-Century Modern Design\n7,00 pcs 691,59 4 841,13 20% 5 809,36\n3. Solid Oak Wood Armchair Acoustic\nSound-Dampening Modular Panels\n10,00 pcs 4 666,26 46 662,60 20% 55 995,12\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n20% 136 085,10 27 217,02 163 302,12\nTotal Rs 136 085,10 Rs 27 217,02 Rs 163 302,12\nNotes:\nAll amounts are in the specified currency. For queries, contact billing@jacobsrussell.com"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "filename": "invoice_30000005.pdf",
+    "invoice_number": "30000005",
+    "invoice_date": "12/05/2024",
+    "due_date": "11/07/2024",
+    "po_number": "PO-562676",
+    "payment_terms": "Net 60 (Check)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Kiehn, Prosacco and Nicolas\n570 Schaden Circles Suite 733\nLake Felipeberg, WV 20331-0715\nTax Id: 910-57-9768",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Brushed Steel Center Top Table Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "8,00",
+            "unit": "hrs",
+            "net_price": "883,24 7",
+            "net_worth": "065,92",
+            "vat": "23%",
+            "gross_worth": "8 691,08"
+        },
+        {
+            "item_no": 2,
+            "description": "Ergonomic Mesh Decorative Vase Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "11,00",
+            "unit": "each",
+            "net_price": "83,10 914,10",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "1 124,34"
+        },
+        {
+            "item_no": 3,
+            "description": "Polished Brass Dining Table Limited Edition Art Deco Collection",
+            "quantity": "12,00",
+            "unit": "box",
+            "net_price": "3 443,39",
+            "net_worth": "41 320,68",
+            "vat": "23%",
+            "gross_worth": "50 824,44"
+        },
+        {
+            "item_no": 4,
+            "description": "Tempered Glass Decorative Vase Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "3,00",
+            "unit": "kg",
+            "net_price": "31,46 94,38",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "116,09"
+        },
+        {
+            "item_no": 5,
+            "description": "Rustic Reclaimed Wood Accent Mirror Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "3,00",
+            "unit": "kg",
+            "net_price": "405,71 1",
+            "net_worth": "217,13",
+            "vat": "23%",
+            "gross_worth": "1 497,07"
+        },
+        {
+            "item_no": 6,
+            "description": "Solid Oak Wood Lounge Chair Minimalist Nordic Style for Home Office",
+            "quantity": "3,00",
+            "unit": "pcs",
+            "net_price": "830,03 2",
+            "net_worth": "490,09",
+            "vat": "23%",
+            "gross_worth": "3 062,81"
+        },
+        {
+            "item_no": 7,
+            "description": "Handcrafted Ceramic Decorative Vase Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "12,00",
+            "unit": "kg",
+            "net_price": "768,44 9",
+            "net_worth": "221,28",
+            "vat": "23%",
+            "gross_worth": "11 342,17"
+        },
+        {
+            "item_no": 8,
+            "description": "Handcrafted Ceramic Credenza Buffet Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "12,00",
+            "unit": "pcs",
+            "net_price": "296,71 3",
+            "net_worth": "560,52",
+            "vat": "23%",
+            "gross_worth": "4 379,44"
+        }
+    ],
+    "summary": ""
+}

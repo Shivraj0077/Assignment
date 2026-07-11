@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000061.pdf",
+    "invoice_number": "30000061",
+    "invoice_date": "10/08/2021",
+    "due_date": "24/09/2021",
+    "po_number": "PO-175290",
+    "payment_terms": "Net 45 (Bank Transfer)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Cormier - Breitenberg\n500 Windsor Drive Apt. 418\nTomborough, HI 04285-2832\nTax Id: 182-49-7070",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Ergonomic Mesh Office Desk Limited Edition Art Deco Collection",
+            "quantity": "8,00",
+            "unit": "hrs",
+            "net_price": "8 172,33",
+            "net_worth": "65 378,64",
+            "vat": "20%",
+            "gross_worth": "78 454,37"
+        },
+        {
+            "item_no": 2,
+            "description": "Solid Oak Wood Sideboard Cabinet Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "1,00",
+            "unit": "days",
+            "net_price": "919,95 919,95",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "1 103,94"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n20% 66 298,59 13 259,72 79 558,31\nTotal Rs 66 298,59 Rs 13 259,72 Rs 79 558,31"
+}

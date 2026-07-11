@@ -1,0 +1,63 @@
+{
+    "filename": "invoice_30000054.pdf",
+    "invoice_number": "30000054",
+    "invoice_date": "06/10/2020",
+    "due_date": "20/11/2020",
+    "po_number": "PO-791427",
+    "payment_terms": "Net 45 (Bank Transfer)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Glover - Kreiger\n43581 Franco Forest Apt. 170\nLittleton, UT 52624\nTax Id: 343-40-9631",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "High-Density Foam Armchair Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "1,00",
+            "unit": "hrs",
+            "net_price": "141,06 141,06",
+            "net_worth": "",
+            "vat": "5%",
+            "gross_worth": "148,11"
+        },
+        {
+            "item_no": 2,
+            "description": "Brushed Steel Dining Table Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "4,00",
+            "unit": "days",
+            "net_price": "4 103,31",
+            "net_worth": "16 413,24",
+            "vat": "5%",
+            "gross_worth": "17 233,90"
+        },
+        {
+            "item_no": 3,
+            "description": "Handcrafted Ceramic Sideboard Cabinet Acoustic Sound-Dampening Modular Panels",
+            "quantity": "8,00",
+            "unit": "days",
+            "net_price": "15,74 125,92",
+            "net_worth": "",
+            "vat": "5%",
+            "gross_worth": "132,22"
+        },
+        {
+            "item_no": 4,
+            "description": "Custom Engraved Gold Center Top Table Acoustic Sound-Dampening Modular Panels",
+            "quantity": "6,00",
+            "unit": "each",
+            "net_price": "175,70 1",
+            "net_worth": "054,20",
+            "vat": "5%",
+            "gross_worth": "1 106,91"
+        },
+        {
+            "item_no": 5,
+            "description": "Solid Oak Wood Accent Mirror Minimalist Nordic Style for Home Office",
+            "quantity": "3,00",
+            "unit": "kg",
+            "net_price": "8 002,72",
+            "net_worth": "24 008,16",
+            "vat": "5%",
+            "gross_worth": "25 208,57"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n5% 41 742,58 2 087,13 43 829,71\nTotal Rs 41 742,58 Rs 2 087,13 Rs 43 829,71"
+}

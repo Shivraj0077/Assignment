@@ -1,0 +1,43 @@
+{
+    "filename": "invoice_30000030.pdf",
+    "invoice_number": "30000030",
+    "invoice_date": "15/07/2023",
+    "due_date": "30/07/2023",
+    "po_number": "PO-159862",
+    "payment_terms": "Net 15 (Check)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Schaden Group\n178 Ullrich Fall Suite 611\nPort Brainport, CA 78034-0804\nTax Id: 523-32-2693",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "6'x3' Black Marble Bookshelf Unit Acoustic Sound-Dampening Modular Panels",
+            "quantity": "5,00",
+            "unit": "each",
+            "net_price": "366,96 1",
+            "net_worth": "834,80",
+            "vat": "10%",
+            "gross_worth": "2 018,28"
+        },
+        {
+            "item_no": 2,
+            "description": "Solid Oak Wood Pendant Light Fixture Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "3,00",
+            "unit": "kg",
+            "net_price": "342,27 1",
+            "net_worth": "026,81",
+            "vat": "10%",
+            "gross_worth": "1 129,49"
+        },
+        {
+            "item_no": 3,
+            "description": "Tempered Glass Center Top Table Acoustic Sound-Dampening Modular Panels",
+            "quantity": "3,00",
+            "unit": "each",
+            "net_price": "21,02 63,06",
+            "net_worth": "",
+            "vat": "10%",
+            "gross_worth": "69,37"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n10% 2 924,67 292,47 3 217,14\nTotal Rs 2 924,67 Rs 292,47 Rs 3 217,14"
+}

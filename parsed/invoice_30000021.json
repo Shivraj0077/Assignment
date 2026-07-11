@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000021.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000021\nDate of issue:19/01/2025\nDue date: 05/03/2025\nPO number: PO-201074\nPayment terms:Net 45 (ACH)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nSchneider Inc\n64690 Hipolito Parkway Suite 207\nShelleyshire, GA 36746-9913\nTax Id: 364-36-9849\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Ergonomic Mesh Center Top Table\nHeavy Duty Industrial Framework with\nLeveling Feet\n10,00 pcs 221,95 2 219,50 5% 2 330,48\n2. 6'x3' Black Marble Lounge Chair\nWeatherproof Powder Coat Finish for\nOutdoor Use\n7,00 each 16,85 117,95 5% 123,85\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n5% 2 337,45 116,88 2 454,33\nTotal Rs 2 337,45 Rs 116,88 Rs 2 454,33\nNotes:\nStandard delivery included. Tax calculated based on shipping destination."
+        }
+    ]
+}

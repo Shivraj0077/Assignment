@@ -1,0 +1,43 @@
+{
+    "filename": "invoice_30000099.pdf",
+    "invoice_number": "30000099",
+    "invoice_date": "14/10/2024",
+    "due_date": "13/11/2024",
+    "po_number": "PO-407199",
+    "payment_terms": "Net 30 (Check)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Altenwerth Inc\n74352 Rohan Tunnel Suite 120\nGrantshire, VA 84117-6437\nTax Id: 960-99-5694",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Ergonomic Mesh Decorative Vase Acoustic Sound-Dampening Modular Panels",
+            "quantity": "2,00",
+            "unit": "each",
+            "net_price": "4 551,51",
+            "net_worth": "9 103,02",
+            "vat": "5%",
+            "gross_worth": "9 558,17"
+        },
+        {
+            "item_no": 2,
+            "description": "Solid Oak Wood Dining Table Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "6,00",
+            "unit": "pcs",
+            "net_price": "20,25 121,50",
+            "net_worth": "",
+            "vat": "5%",
+            "gross_worth": "127,58"
+        },
+        {
+            "item_no": 3,
+            "description": "Ergonomic Mesh Lounge Chair Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "8,00",
+            "unit": "days",
+            "net_price": "54,50 436,00",
+            "net_worth": "",
+            "vat": "5%",
+            "gross_worth": "457,80"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n5% 9 660,52 483,03 10 143,55\nTotal Rs 9 660,52 Rs 483,03 Rs 10 143,55"
+}

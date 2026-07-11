@@ -1,0 +1,43 @@
+{
+    "filename": "invoice_30000047.pdf",
+    "invoice_number": "30000047",
+    "invoice_date": "11/01/2022",
+    "due_date": "25/02/2022",
+    "po_number": "PO-983488",
+    "payment_terms": "Net 45 (Check)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Spinka, Crona and Corkery\n324 Betsy Flats Suite 893\nWest Shelley, NJ 70155\nTax Id: 923-27-5534",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Solid Oak Wood Credenza Buffet Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "10,00",
+            "unit": "each",
+            "net_price": "82,82 828,20",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "1 018,69"
+        },
+        {
+            "item_no": 2,
+            "description": "High-Density Foam Bookshelf Unit Limited Edition Art Deco Collection",
+            "quantity": "6,00",
+            "unit": "days",
+            "net_price": "8 659,42",
+            "net_worth": "51 956,52",
+            "vat": "23%",
+            "gross_worth": "63 906,52"
+        },
+        {
+            "item_no": 3,
+            "description": "Custom Engraved Gold Armchair Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "4,00",
+            "unit": "hrs",
+            "net_price": "160,04 640,16",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "787,40"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n23% 53 424,88 12 287,73 65 712,61\nTotal Rs 53 424,88 Rs 12 287,73 Rs 65 712,61"
+}

@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000032.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000032\nDate of issue:07/01/2021\nDue date: 21/02/2021\nPO number: PO-384054\nPayment terms:Net 45 (Check)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nBogan - Swaniawski\n28715 Abdiel Pike Suite 258\nPennyworth, TX 41458\nTax Id: 114-44-5680\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Premium Leather Sideboard Cabinet\nLimited Edition Art Deco Collection\n3,00 box 55,68 167,04 20% 200,45\n2. Custom Engraved Gold Center Top\nTable Mosaic Gemstone Patio Art Black\nFriday Gift\n10,00 days 550,49 5 504,90 20% 6 605,88\n3. 6'x3' Black Marble Conference Table\nMinimalist Nordic Style for Home Office\n12,00 each 318,99 3 827,88 20% 4 593,46\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n20% 9 499,82 1 899,97 11 399,79\nTotal Rs 9 499,82 Rs 1 899,97 Rs 11 399,79\nNotes:\nThank you for your business. Please remit payment at your earliest convenience."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000080.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000080\nDate of issue:12/10/2023\nDue date: 26/11/2023\nPO number: PO-746019\nPayment terms:Net 45 (Bank Transfer)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nConsidine - Hettinger\n253 Mae Haven Suite 337\nDevantebury, NM 55502-6353\nTax Id: 497-80-4576\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Handcrafted Ceramic Pendant Light\nFixture Pietradura Inlay Scagliola Stone\nDecorate H3096\n5,00 days 14,88 74,40 20% 89,28\n2. Rustic Reclaimed Wood Accent Mirror\nMinimalist Nordic Style for Home Office\n7,00 each 728,76 5 101,32 20% 6 121,58\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n20% 5 175,72 1 035,14 6 210,86\nTotal Rs 5 175,72 Rs 1 035,14 Rs 6 210,86\nNotes:\nPayment is due within the specified terms. Late fees may apply."
+        }
+    ]
+}

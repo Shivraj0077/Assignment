@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000057.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000057\nDate of issue:21/07/2022\nDue date: 05/08/2022\nPO number: PO-598211\nPayment terms:Net 15 (Check)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nMcClure - DuBuque\n665 Grange Avenue Apt. 112\nBrentwood, OK 45063\nTax Id: 572-11-1997\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Tempered Glass Accent Mirror\nMinimalist Nordic Style for Home Office\n9,00 kg 158,33 1 424,97 23% 1 752,71\n2. Handcrafted Ceramic Conference Table\nMinimalist Nordic Style for Home Office\n7,00 days 379,72 2 658,04 23% 3 269,39\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n23% 4 083,01 939,09 5 022,10\nTotal Rs 4 083,01 Rs 939,09 Rs 5 022,10\nNotes:\nPayment is due within the specified terms. Late fees may apply."
+        }
+    ]
+}

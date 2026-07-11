@@ -1,0 +1,33 @@
+{
+    "filename": "invoice_30000068.pdf",
+    "invoice_number": "30000068",
+    "invoice_date": "19/07/2020",
+    "due_date": "18/08/2020",
+    "po_number": "PO-991224",
+    "payment_terms": "Net 30 (Bank Transfer)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Zemlak, Lueilwitz and Moen\n41681 Fairfield Road Apt. 516\nSouth Jaimeburgh, IL 24275-7002\nTax Id: 285-95-7682",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "Rustic Reclaimed Wood Armchair Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "7,00",
+            "unit": "pcs",
+            "net_price": "89,49 626,43",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "770,51"
+        },
+        {
+            "item_no": 2,
+            "description": "Solid Oak Wood Sideboard Cabinet Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "12,00",
+            "unit": "pcs",
+            "net_price": "53,29 639,48",
+            "net_worth": "",
+            "vat": "23%",
+            "gross_worth": "786,56"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n23% 1 265,91 291,16 1 557,07\nTotal Rs 1 265,91 Rs 291,16 Rs 1 557,07"
+}

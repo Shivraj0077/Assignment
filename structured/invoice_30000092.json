@@ -1,0 +1,93 @@
+{
+    "filename": "invoice_30000092.pdf",
+    "invoice_number": "30000092",
+    "invoice_date": "10/08/2021",
+    "due_date": "25/08/2021",
+    "po_number": "PO-485747",
+    "payment_terms": "Net 15 (Check)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Rippin - Bahringer\n8921 Schoen Avenue Suite 641\nEast Zoeyborough, OK 37164-8209\nTax Id: 424-25-1965",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "High-Density Foam Conference Table Vintage Mid-Century Modern Design",
+            "quantity": "7,00",
+            "unit": "box",
+            "net_price": "224,66 1",
+            "net_worth": "572,62",
+            "vat": "15%",
+            "gross_worth": "1 808,51"
+        },
+        {
+            "item_no": 2,
+            "description": "Brushed Steel Conference Table Limited Edition Art Deco Collection",
+            "quantity": "2,00",
+            "unit": "days",
+            "net_price": "14,91 29,82",
+            "net_worth": "",
+            "vat": "15%",
+            "gross_worth": "34,29"
+        },
+        {
+            "item_no": 3,
+            "description": "Custom Engraved Gold Lounge Chair Acoustic Sound-Dampening Modular Panels",
+            "quantity": "5,00",
+            "unit": "hrs",
+            "net_price": "48,81 244,05",
+            "net_worth": "",
+            "vat": "15%",
+            "gross_worth": "280,66"
+        },
+        {
+            "item_no": 4,
+            "description": "Brushed Steel Credenza Buffet Vintage Mid-Century Modern Design",
+            "quantity": "1,00",
+            "unit": "days",
+            "net_price": "76,08 76,08",
+            "net_worth": "",
+            "vat": "15%",
+            "gross_worth": "87,49"
+        },
+        {
+            "item_no": 5,
+            "description": "Brushed Steel Bookshelf Unit Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "12,00",
+            "unit": "each",
+            "net_price": "45,90 550,80",
+            "net_worth": "",
+            "vat": "15%",
+            "gross_worth": "633,42"
+        },
+        {
+            "item_no": 6,
+            "description": "Brushed Steel Center Top Table Vintage Mid-Century Modern Design",
+            "quantity": "6,00",
+            "unit": "hrs",
+            "net_price": "544,28 3",
+            "net_worth": "265,68",
+            "vat": "15%",
+            "gross_worth": "3 755,53"
+        },
+        {
+            "item_no": 7,
+            "description": "Tempered Glass Sideboard Cabinet Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "5,00",
+            "unit": "kg",
+            "net_price": "845,32 4",
+            "net_worth": "226,60",
+            "vat": "15%",
+            "gross_worth": "4 860,59"
+        },
+        {
+            "item_no": 8,
+            "description": "Custom Engraved Gold Pendant Light Fixture Acoustic Sound-Dampening Modular Panels",
+            "quantity": "10,00",
+            "unit": "days",
+            "net_price": "4 148,66",
+            "net_worth": "41 486,60",
+            "vat": "15%",
+            "gross_worth": "47 709,59"
+        }
+    ],
+    "summary": ""
+}

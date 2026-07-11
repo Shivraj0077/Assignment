@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000041.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000041\nDate of issue:01/11/2025\nDue date: 16/11/2025\nPO number: PO-471517\nPayment terms:Net 15 (ACH)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nRatke, Vandervort and Vandervort\n44440 Aaron Prairie Apt. 447\nParkerboro, NV 16036\nTax Id: 972-75-8923\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. High-Density Foam Center Top Table\nPietradura Inlay Scagliola Stone\nDecorate H3096\n5,00 each 414,30 2 071,50 10% 2 278,65\n2. Premium Leather Decorative Vase\nVintage Mid-Century Modern Design\n9,00 each 8 878,01 79 902,09 10% 87 892,30\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n10% 81 973,59 8 197,36 90 170,95\nTotal Rs 81 973,59 Rs 8 197,36 Rs 90 170,95\nNotes:\nThank you for your business. Please remit payment at your earliest convenience."
+        }
+    ]
+}

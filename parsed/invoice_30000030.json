@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000030.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000030\nDate of issue:15/07/2023\nDue date: 30/07/2023\nPO number: PO-159862\nPayment terms:Net 15 (Check)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nSchaden Group\n178 Ullrich Fall Suite 611\nPort Brainport, CA 78034-0804\nTax Id: 523-32-2693\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. 6'x3' Black Marble Bookshelf Unit\nAcoustic Sound-Dampening Modular\nPanels\n5,00 each 366,96 1 834,80 10% 2 018,28\n2. Solid Oak Wood Pendant Light Fixture\nPietradura Inlay Scagliola Stone\nDecorate H3096\n3,00 kg 342,27 1 026,81 10% 1 129,49\n3. Tempered Glass Center Top Table\nAcoustic Sound-Dampening Modular\nPanels\n3,00 each 21,02 63,06 10% 69,37\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n10% 2 924,67 292,47 3 217,14\nTotal Rs 2 924,67 Rs 292,47 Rs 3 217,14\nNotes:\nAll amounts are in the specified currency. For queries, contact billing@jacobsrussell.com"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "filename": "invoice_30000010.pdf",
+    "invoice_number": "30000010",
+    "invoice_date": "16/06/2020",
+    "due_date": "15/08/2020",
+    "po_number": "PO-515874",
+    "payment_terms": "Net 60 (Bank Transfer)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Wolf Group\n83600 First Street Apt. 485\nHerminioton, IA 94021-5934\nTax Id: 865-59-4420",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "6'x3' Black Marble Armchair Minimalist Nordic Style for Home Office",
+            "quantity": "12,00",
+            "unit": "days",
+            "net_price": "8 037,98",
+            "net_worth": "96 455,76",
+            "vat": "20%",
+            "gross_worth": "115 746,91"
+        },
+        {
+            "item_no": 2,
+            "description": "Tempered Glass Bookshelf Unit Weatherproof Powder Coat Finish for Outdoor Use",
+            "quantity": "11,00",
+            "unit": "box",
+            "net_price": "588,80 6",
+            "net_worth": "476,80",
+            "vat": "20%",
+            "gross_worth": "7 772,16"
+        },
+        {
+            "item_no": 3,
+            "description": "Brushed Steel Armchair Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "8,00",
+            "unit": "box",
+            "net_price": "60,00 480,00",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "576,00"
+        },
+        {
+            "item_no": 4,
+            "description": "Solid Oak Wood Dining Table Pietradura Inlay Scagliola Stone Decorate H3096",
+            "quantity": "12,00",
+            "unit": "kg",
+            "net_price": "28,44 341,28",
+            "net_worth": "",
+            "vat": "20%",
+            "gross_worth": "409,54"
+        },
+        {
+            "item_no": 5,
+            "description": "4'x2' Marble Black Sideboard Cabinet Vintage Mid-Century Modern Design",
+            "quantity": "6,00",
+            "unit": "hrs",
+            "net_price": "3 117,52",
+            "net_worth": "18 705,12",
+            "vat": "20%",
+            "gross_worth": "22 446,14"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n20% 122 458,96 24 491,79 146 950,75\nTotal Rs 122 458,96 Rs 24 491,79 Rs 146 950,75"
+}

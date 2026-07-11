@@ -1,0 +1,63 @@
+{
+    "filename": "invoice_30000056.pdf",
+    "invoice_number": "30000056",
+    "invoice_date": "16/07/2025",
+    "due_date": "30/08/2025",
+    "po_number": "PO-719701",
+    "payment_terms": "Net 45 (Check)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Brakus, Borer and Mohr\n3921 E South Street Suite 474\nSouth Rosemarieview, ND 43068-0475\nTax Id: 445-63-5555",
+    "items": [
+        {
+            "item_no": 1,
+            "description": "High-Density Foam Credenza Buffet Mosaic Gemstone Patio Art Black Friday Gift",
+            "quantity": "9,00",
+            "unit": "kg",
+            "net_price": "17,25 155,25",
+            "net_worth": "",
+            "vat": "5%",
+            "gross_worth": "163,01"
+        },
+        {
+            "item_no": 2,
+            "description": "Handcrafted Ceramic Center Top Table Limited Edition Art Deco Collection",
+            "quantity": "10,00",
+            "unit": "box",
+            "net_price": "93,98 939,80",
+            "net_worth": "",
+            "vat": "5%",
+            "gross_worth": "986,79"
+        },
+        {
+            "item_no": 3,
+            "description": "Handcrafted Ceramic Bookshelf Unit Vintage Mid-Century Modern Design",
+            "quantity": "6,00",
+            "unit": "box",
+            "net_price": "885,39 5",
+            "net_worth": "312,34",
+            "vat": "5%",
+            "gross_worth": "5 577,96"
+        },
+        {
+            "item_no": 4,
+            "description": "Solid Oak Wood Lounge Chair Heavy Duty Industrial Framework with Leveling Feet",
+            "quantity": "9,00",
+            "unit": "hrs",
+            "net_price": "164,93 1",
+            "net_worth": "484,37",
+            "vat": "5%",
+            "gross_worth": "1 558,59"
+        },
+        {
+            "item_no": 5,
+            "description": "Handcrafted Ceramic Bookshelf Unit Minimalist Nordic Style for Home Office",
+            "quantity": "7,00",
+            "unit": "pcs",
+            "net_price": "81,95 573,65",
+            "net_worth": "",
+            "vat": "5%",
+            "gross_worth": "602,33"
+        }
+    ],
+    "summary": "VAT [%] Net worth VAT Gross worth\n5% 8 465,41 423,27 8 888,68\nTotal Rs 8 465,41 Rs 423,27 Rs 8 888,68"
+}

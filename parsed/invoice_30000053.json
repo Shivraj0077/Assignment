@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000053.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000053\nDate of issue:29/07/2020\nDue date: 28/08/2020\nPO number: PO-893970\nPayment terms:Net 30 (ACH)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nBatz - Sawayn\n13993 East Street Apt. 766\nEast Maverick, RI 14478\nTax Id: 376-41-2152\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Ergonomic Mesh Conference Table\nMosaic Gemstone Patio Art Black\nFriday Gift\n11,00 each 974,95 10 724,45 23% 13 191,07\n2. Premium Leather Sideboard Cabinet\nHeavy Duty Industrial Framework with\nLeveling Feet\n4,00 hrs 2 427,22 9 708,88 23% 11 941,92\n3. Handcrafted Ceramic Pendant Light\nFixture Mosaic Gemstone Patio Art\nBlack Friday Gift\n12,00 pcs 110,54 1 326,48 23% 1 631,57\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n23% 21 759,81 5 004,75 26 764,56\nTotal Rs 21 759,81 Rs 5 004,75 Rs 26 764,56\nNotes:\nThank you for your business. Please remit payment at your earliest convenience."
+        }
+    ]
+}

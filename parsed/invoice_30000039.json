@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000039.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000039\nDate of issue:26/02/2026\nDue date: 13/03/2026\nPO number: PO-977563\nPayment terms:Net 15 (Credit Card)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nTurcotte, Bruen and Champlin\n96216 Rau Wall Suite 841\nMalindamouth, NH 86651-1319\nTax Id: 785-33-8759\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. High-Density Foam Pendant Light\nFixture Pietradura Inlay Scagliola Stone\nDecorate H3096\n12,00 pcs 43,72 524,64 23% 645,31\n2. Ergonomic Mesh Sideboard Cabinet\nVintage Mid-Century Modern Design\n5,00 each 8 021,22 40 106,10 23% 49 330,50\n3. Polished Brass Center Top Table\nLimited Edition Art Deco Collection\n7,00 pcs 874,33 6 120,31 23% 7 527,98\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n23% 46 751,05 10 752,74 57 503,79\nTotal Rs 46 751,05 Rs 10 752,74 Rs 57 503,79\nNotes:\nPayment is due within the specified terms. Late fees may apply."
+        }
+    ]
+}

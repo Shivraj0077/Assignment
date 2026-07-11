@@ -1,0 +1,10 @@
+{
+    "filename": "invoice_30000020.pdf",
+    "num_pages": 1,
+    "pages": [
+        {
+            "page": 1,
+            "text": "Invoice no: 30000020\nDate of issue:21/12/2020\nDue date: 20/01/2021\nPO number: PO-298720\nPayment terms:Net 30 (Credit Card)\nSeller:\nJacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538\nClient:\nKemmer Group\n181 Buckridge Underpass Apt. 553\nKautzerport, IL 78471\nTax Id: 236-13-7906\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross worth\n1. Brushed Steel Decorative Vase Acoustic\nSound-Dampening Modular Panels\n7,00 hrs 22,35 156,45 20% 187,74\n2. Premium Leather Sideboard Cabinet\nHeavy Duty Industrial Framework with\nLeveling Feet\n5,00 box 25,89 129,45 20% 155,34\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n20% 285,90 57,18 343,08\nTotal Rs 285,90 Rs 57,18 Rs 343,08\nNotes:\nAll amounts are in the specified currency. For queries, contact billing@jacobsrussell.com"
+        }
+    ]
+}

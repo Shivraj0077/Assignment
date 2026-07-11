@@ -1,0 +1,12 @@
+{
+    "filename": "invoice_30000042.pdf",
+    "invoice_number": "30000042",
+    "invoice_date": "30/04/2021",
+    "due_date": "30/05/2021",
+    "po_number": "PO-963811",
+    "payment_terms": "Net 30 (Bank Transfer)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "Koepp - Kreiger\n48619 Hayes Creek Suite 583\nLakeland, WY 48576\nTax Id: 500-60-9711",
+    "items": [],
+    "summary": ""
+}

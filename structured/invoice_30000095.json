@@ -1,0 +1,12 @@
+{
+    "filename": "invoice_30000095.pdf",
+    "invoice_number": "30000095",
+    "invoice_date": "07/06/2023",
+    "due_date": "07/07/2023",
+    "po_number": "PO-286028",
+    "payment_terms": "Net 30 (Bank Transfer)",
+    "seller": "Jacobs, Russell and Perry\n195 Brown Parkway Apt. 278\nTurnerburgh, KY 67935\nTax Id: 958-96-2538",
+    "client": "MacGyver Group\n490 Marian Brook Suite 207\nWest Nikki, WY 93107\nTax Id: 355-19-2167",
+    "items": [],
+    "summary": ""
+}
