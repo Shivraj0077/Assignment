@@ -85,7 +85,3 @@ graph TD
    ```bash
    python main.py
    ```
-
-## ⚠️ Known Limitations
-- The system currently retrieves the top 5 semantic chunks (`n_results=5`). If a user asks a global aggregation question (e.g., *"List all PDFs"* or *"What is the sum of all invoices?"*), the model will only be able to answer based on the 5 chunks it retrieves, not the entire database.
-```
