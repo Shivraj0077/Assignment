@@ -58,8 +58,15 @@ if prompt := st.chat_input("Ask a question about your invoices..."):
 
     with st.chat_message("assistant"):
         with st.spinner("Scanning vector store..."):
-            response = rag.ask(prompt, history)
+            result = rag.ask(prompt, history)
+        response = result["answer"]
+        sources = result["sources"]
         st.markdown(response)
+        if sources:
+            st.markdown(f"**Sources:** {', '.join(sources)}")
+            response_to_save = f"{response}\n\n**Sources:** {', '.join(sources)}"
+        else:
+            response_to_save = response
     
-    current_messages.append({"role": "assistant", "content": response})
+    current_messages.append({"role": "assistant", "content": response_to_save})
     st.session_state.chats[st.session_state.current_chat_id] = current_messages

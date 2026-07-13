@@ -57,6 +57,7 @@ Standalone Question:"""
             standalone_question
         ).tolist()
 
+        filenames = []
         try:
             count = self.collection.count()
             if count > 0:
@@ -65,6 +66,8 @@ Standalone Question:"""
                     n_results=min(5, count)
                 )
                 context = "\n\n".join(results["documents"][0])
+                if results.get("metadatas") and results["metadatas"][0]:
+                    filenames = [meta.get("filename") for meta in results["metadatas"][0] if meta and meta.get("filename")]
             else:
                 context = ""
         except Exception:
@@ -90,4 +93,7 @@ Context:
             messages=messages
         )
 
-        return response.choices[0].message.content
+        return {
+            "answer": response.choices[0].message.content,
+            "sources": sorted(list(set(filenames)))
+        }
