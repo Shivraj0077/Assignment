@@ -14,11 +14,12 @@ class InvoiceRAG:
             "all-MiniLM-L6-v2"
         )
 
+        db_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "chroma_db")
         self.client = chromadb.PersistentClient(
-            path="chroma_db"
+            path=db_path
         )
 
-        self.collection = self.client.get_collection(
+        self.collection = self.client.get_or_create_collection(
             "invoices"
         )
 
