@@ -26,6 +26,8 @@ class InvoiceRAG:
             api_key=os.getenv("GROQ_API_KEY")
         )
 
+
+
     def ask(self, question):
 
         embedding = self.embedder.encode(
@@ -48,6 +50,11 @@ class InvoiceRAG:
 You are an invoice assistant.
 
 Answer ONLY using the context.
+
+Dont show your process run the process 
+internally and for complex questions solve them and 
+give a summarised answer of your response.
+always answer in rs not dollars
 
 Context:
 
@@ -75,5 +82,7 @@ Question:
             ]
 
         )
+
+        
 
         return response.choices[0].message.content
