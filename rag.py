@@ -57,14 +57,18 @@ Standalone Question:"""
             standalone_question
         ).tolist()
 
-        results = self.collection.query(
-            query_embeddings=[embedding],
-            n_results=5
-        )
-
-        context = "\n\n".join(
-            results["documents"][0]
-        )
+        try:
+            count = self.collection.count()
+            if count > 0:
+                results = self.collection.query(
+                    query_embeddings=[embedding],
+                    n_results=min(5, count)
+                )
+                context = "\n\n".join(results["documents"][0])
+            else:
+                context = ""
+        except Exception:
+            context = ""
 
         context_prompt = f"""You are an invoice assistant.
 
