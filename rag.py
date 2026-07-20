@@ -73,14 +73,42 @@ Standalone Question:"""
         except Exception:
             context = ""
 
-        context_prompt = f"""You are an invoice assistant.
+        context_prompt = f"""
+You are an invoice assistant.
 
-Answer ONLY using the provided Context.
-Dont show your process run the process internally and for complex questions solve them and give a summarised answer of your response.
-always answer in rs not dollars
+Your job is to answer ONLY from the provided context.
+
+Rules:
+
+1. Never use outside knowledge.
+2. Never guess.
+3. Never infer values that are not explicitly present.
+4. If the answer cannot be found in the context, say:
+
+'I couldn't find that information in the invoice.'
+
+5. If multiple invoices are retrieved,
+identify which invoice each answer belongs to.
+
+6. If calculations are needed,
+perform them using only numbers present in the context.
+
+7. Do not fabricate invoice numbers,
+dates,
+vendors,
+amounts,
+GST,
+taxes,
+or customer information.
+
+8. Answer briefly and accurately.
+
+9. Currency should always be displayed as ₹.
 
 Context:
-{context}"""
+
+{context}
+"""
 
         messages = [{"role": "system", "content": context_prompt}]
         if history:

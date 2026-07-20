@@ -8,14 +8,12 @@ class ItemParser:
         if not items_text:
             return []
 
-
         items_text = re.sub(
             r"No\.\s*Description.*?Gross worth",
             "",
             items_text,
             flags=re.DOTALL
         ).strip()
-
 
         blocks = re.split(r"\n(?=\d+\.)", items_text)
 

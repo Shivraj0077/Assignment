@@ -8,7 +8,6 @@ st.title("Invoice Assistant")
 
 @st.cache_resource
 def load_rag():
-    val = "reload_db_v3"
     return InvoiceRAG()
 
 rag = load_rag()
